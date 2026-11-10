@@ -1,0 +1,148 @@
+#opt/scope|눈, 보다|그리스어 optos / skopein|🔬|scope = 들여다보는 도구! 작은(micro) 것을 보면 microscope.
+microscope|현미경|micro-+scope|작은 것을 보는 도구
+periscope|잠망경|peri-+scope|주위를 보는 도구
+stethoscope|청진기|stetho=가슴+scope|가슴을 들여다보는 도구
+kaleidoscope|만화경|kalos=아름다운+eido=모양+scope|아름다운 모양 보기
+horoscope|별자리 운세|horo=시간+scope|시간을 보는 것
+optic|시각의|opt+-ic|눈의
+optician|안경사|opt+-ician|눈 전문가
+optical|광학의|opt+-ical|눈의
+myopia|근시|my=감다+op=눈+-ia|눈을 가늘게 뜸
+synopsis|개요|syn-+opsis=보기|함께 훑어봄
+autopsy|부검|auto-+opsy|스스로 보기
+panorama|전경|pan-+orama=보기|전부 보기
+#omni/pan|모두|라틴어 omnis / 그리스어 pan|🌐|omni = 모두! 모두 아는 것 = omniscient.
+omnivore|잡식동물|omni+vore=먹다|모두 먹는 것
+omnipresent|어디에나 있는|omni+present=존재하는|모든 곳에 있는
+panacea|만병통치약|pan+acea=치료|모든 것을 고침
+pandemonium|아수라장|pan+demon+-ium|모든 악마
+pantheon|판테온|pan+theon=신|모든 신의 신전
+#phag/vor|먹다|그리스어 phagein / 라틴어 vorare|🍖|vor = 먹는 것! 고기를 먹는 carnivore.
+carnivore|육식동물|carni=고기+vore|고기 먹는 것
+herbivore|초식동물|herbi=풀+vore|풀 먹는 것
+devour|게걸스레 먹다|de-+vour|통째 삼키다
+voracious|게걸스러운|vor+-acious|마구 먹는
+esophagus|식도|eso=나르다+phag+-us|먹은 것을 나르는 관
+sarcophagus|석관|sarco=살+phag+-us|살을 먹는 돌
+phagocyte|식세포|phago+cyte=세포|먹는 세포
+#the/theo|신|그리스어 theos (신)|🙏|theo = 신! 신을 연구하면 theology.
+theology|신학|theo+-logy|신 학문
+atheist|무신론자|a-+the+-ist|신이 없다는 사람
+monotheism|일신교|mono-+the+-ism|한 신
+polytheism|다신교|poly-+the+-ism|여러 신
+enthusiasm|열정|en-+thus=theo+-iasm|신이 안에 들어옴
+apotheosis|신격화|apo-+theo+-sis|신이 됨
+#therm|열|그리스어 therme (열)|🌡️|therm = 열! 열 관련.
+thermal|열의|therm+-al|열의
+thermostat|온도 조절기|thermo+stat=서다|열을 유지하는 것
+thermos|보온병|therm+-os|열
+hypothermia|저체온증|hypo-+therm+-ia|열이 아래로 떨어짐
+isotherm|등온선|iso=같은+therm|같은 열
+thermonuclear|열핵의|thermo+nuclear=핵의|열과 핵
+#tox|독|그리스어 toxikon (독)|☠️|tox = 독! 독성.
+toxic|독성의|tox+-ic|독의
+toxin|독소|tox+-in|독
+detoxify|해독하다|de-+tox+-ify|독을 없애다
+intoxicate|취하게 하다|in-+toxic+-ate|독이 들어가게 하다
+antitoxin|항독소|anti-+toxin|독에 맞서는 것
+toxicology|독성학|toxic+-ology|독 학문
+#phob|공포|그리스어 phobos (공포)|😱|phob = 공포! ~를 무서워하는 증상.
+phobia|공포증|phob+-ia|두려움
+claustrophobia|폐쇄공포증|claustro=닫힌 곳+phob+-ia|닫힌 곳 공포
+acrophobia|고소공포증|acro=높은+phob+-ia|높은 곳 공포
+xenophobia|외국인 혐오|xeno=낯선+phob+-ia|낯선 이 공포
+hydrophobia|공수병|hydro=물+phob+-ia|물 공포
+arachnophobia|거미공포증|arachno=거미+phob+-ia|거미 공포
+technophobia|기술 혐오|techno+phob+-ia|기술 공포
+#zo|동물, 생명|그리스어 zoion (동물)|🦁|zo = 동물! 동물 관련.
+zoo|동물원|zoo|동물
+zodiac|십이궁|zo+diac=원|동물 띠
+protozoa|원생동물|proto=처음+zo+-a|최초의 동물
+zoologist|동물학자|zoo+log+-ist|동물 학자
+zoonotic|동물 유래의|zoo+not+-ic|동물에서 온
+#mono/poly|하나 / 많은|그리스어 monos / polys|1️⃣|mono = 하나, poly = 많음. 짝꿍 접사!
+monopoly|독점|mono+poly=팔다|하나가 파는 것
+monotone|단조로운 음|mono+tone=음|하나의 음
+monotony|단조로움|mono+tony=음|하나뿐인 소리
+monogamy|일부일처제|mono+gamy=결혼|하나의 결혼
+monolith|거석|mono+lith=돌|하나의 돌
+monolingual|단일어 사용의|mono+lingu+-al|하나의 언어
+polygon|다각형|poly+gon=각|많은 각
+polygamy|일부다처제|poly+gamy|여러 결혼
+polyglot|다국어 사용자|poly+glot=혀|여러 혀
+#fid|믿음|라틴어 fidere (믿다)|🤝|fid = 신뢰! 믿음으로 맡기는 것.
+faith|믿음|fa=fid+-ith|신뢰
+fidelity|충실|fid+-elity|신뢰
+confide|털어놓다|con-+fid+-e|믿고 맡기다
+confidence|자신감|con-+fid+-ence|믿음
+diffident|소심한|dif-+fid+-ent|믿음이 흩어진
+infidel|이교도|in-+fid+-el|믿지 않는 사람
+perfidy|배신|per-+fid+-y|믿음을 끊음
+federal|연방의|feder=fid+-al|믿음으로 맺은
+defy|도전하다|de-+fy=fid|믿음을 거부하다
+#flect/flex|구부리다|라틴어 flectere (구부리다)|🪞|flect = 휘어 돌아오기! 빛이 휘어 돌아오면 reflect.
+reflect|반사하다|re-+flect|뒤로 구부리다
+reflex|반사 작용|re-+flex|뒤로 휘어짐
+flex|구부리다|flex|휘다
+deflect|빗나가게 하다|de-+flect|아래로 구부리다
+inflect|어형 변화시키다|in-+flect|안으로 구부리다
+reflection|반성, 반사|re-+flect+-ion|돌아봄
+circumflex|곡절 악센트|circum-+flex|주위로 구부림
+genuflect|무릎 꿇다|genu=무릎+flect|무릎 구부리기
+#gest|나르다, 가져가다|라틴어 gerere (가져가다)|🧳|gest = 가져가서 보이기! 몸의 움직임이 gesture.
+suggest|제안하다|sug-+gest|아래서 가져오다
+digest|소화하다|di-+gest|따로따로 나르다
+gesture|몸짓|gest+-ure|몸을 움직임
+register|등록하다|re-+gest+-er|다시 기록해 가져가다
+ingest|섭취하다|in-+gest|안으로 가져가다
+congest|막히게 하다|con-+gest|한데 몰아 나르다
+gestation|임신 기간|gest+-ation|뱃속에 지니는 일
+suggestion|제안|sug-+gest+-ion|제시한 것
+#plaud/plod|박수, 터뜨리다|라틴어 plaudere (치다)|👏|plaud = 짝짝! 박수치며 칭찬.
+applaud|박수치다|ap-+plaud|~를 향해 손뼉 치다
+applause|박수|ap-+plaus+-e|손뼉 침
+plausible|그럴듯한|plaus+-ible|박수 받을 만한
+explode|폭발하다|ex-+plod+-e|박수 쳐서 내쫓다
+implode|내파하다|im-+plod+-e|안으로 터지다
+implosion|내파|im-+plos+-ion|안으로 터짐
+plaudit|칭찬|plaud+-it|박수
+#rid/ris|웃다|라틴어 ridere (웃다)|😂|rid = 웃음! 웃음거리.
+ridicule|조롱하다|rid+-icule|웃음거리로 삼다
+ridiculous|우스꽝스러운|rid+-iculous|웃음을 자아내는
+deride|비웃다|de-+rid+-e|아래로 웃다
+derision|조소|de-+ris+-ion|비웃음
+risible|웃음을 자아내는|ris+-ible|웃길 만한
+#sult/sal|뛰다|라틴어 salire (뛰다)|🤸|sult = 폴짝! 되받아 뛰면 result.
+result|결과|re-+sult|뒤로 튀어 오르다
+consult|상담하다|con-+sult|함께 뛰어들다
+insult|모욕하다|in-+sult|위로 뛰어올라 공격하다
+assault|공격|as-+sault|~에게 뛰어들다
+exult|크게 기뻐하다|ex-+ult|밖으로 뛰다
+somersault|공중제비|somer=sub+sault|위로 뛰어넘기
+resilient|탄력 있는|re-+sil+-ient|뒤로 튀어오르는
+salient|두드러진|sal+-ient|튀어나온
+desultory|산만한|de-+sult+-ory|이리저리 뛰는
+#tang/tact|만지다|라틴어 tangere (만지다)|🤲|tact = 터치! 닿는 것.
+contact|접촉|con-+tact|함께 닿다
+tangible|만질 수 있는|tang+-ible|닿을 수 있는
+intact|온전한|in-+tact|건드리지 않은
+tactile|촉각의|tact+-ile|만질 수 있는
+tangent|접선|tang+-ent|살짝 닿는
+contagious|전염되는|con-+tag=tang+-ious|함께 닿아 옮는
+contaminate|오염시키다|con-+tamin=tang+-ate|함께 닿아 더럽히다
+integrate|통합하다|in-+teg=tang+-rate|손대지 않은 온전함으로 합치다
+integer|정수|in-+teg|건드리지 않은 온전수
+entire|전체의|en=in+tire=tang|온전한
+tact|재치|tact|섬세한 접촉
+#chrom|색|그리스어 khroma (색)|🎨|chrom = 크레용 색! 색 관련.
+chrome|크롬 (도금)|chrom+-e|색
+monochrome|단색의|mono-+chrom+-e|한 가지 색
+chromosome|염색체|chromo+some=몸|색깔 있는 몸
+polychrome|다색의|poly-+chrom+-e|여러 색
+achromatic|무채색의|a-+chrom+-atic|색 없는
+#ocul/opt|눈|라틴어 oculus (눈)|👀|ocul = 눈동자! 눈에 관한.
+ocular|눈의|ocul+-ar|눈의
+monocle|단안경|mon=하나+ocle=ocul|한 눈 렌즈
+inoculate|접종하다|in-+ocul+-ate|눈(싹)에 접붙이다
+oculist|안과의사|ocul+-ist|눈 의사
+binocular|쌍안의|bin=둘+ocul+-ar|두 눈의

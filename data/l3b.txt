@@ -1,0 +1,147 @@
+#reg/rect|바로잡다, 다스리다|라틴어 regere (곧게 이끌다)|📐|reg = 곧은 자! 곧게 이끌면 규칙(regular)·방향(direct).
+regular|규칙적인|reg+-ular|곧게 따르는
+regulate|규제하다|reg+-ulate|규칙을 정하다
+region|지역|reg+-ion|다스리는 땅
+regime|정권|reg+-ime|다스림
+direct|직접적인|di-+rect|곧게 이끌다
+correct|맞는, 바로잡다|cor-+rect|함께 곧게 하다
+erect|세우다|e-+rect|위로 곧게 세우다
+rectangle|직사각형|rect+angle=각|곧은 각
+rectify|바로잡다|rect+-ify|곧게 만들다
+royal|왕의|roy=reg+-al|다스리는 이의
+reign|통치하다|reg+-n|다스리다
+#lect/leg|모으다, 읽다, 고르다|라틴어 legere (모으다·읽다)|📖|lect = 골라 읽기! 함께(col) 모으면 collect.
+collect|모으다|col-+lect|함께 모으다
+select|선택하다|se-+lect|따로 골라내다
+elect|선출하다|e-+lect|밖으로 골라내다
+neglect|소홀히 하다|neg-+lect|고르지 않다
+intellect|지성|intel-+lect|사이에서 골라 읽는 힘
+intelligent|똑똑한|intel-+lig+-ent|골라 읽는 힘이 있는
+legend|전설|leg+-end|읽혀야 할 이야기
+lecture|강의|lect+-ure|읽어 주는 것
+legible|읽기 쉬운|leg+-ible|읽을 수 있는
+eligible|자격 있는|e-+lig+-ible|골라낼 만한
+recollect|회상하다|re-+col-+lect|다시 모으다
+dialect|방언|dia-+lect|사이에서 쓰는 말
+#leg/lex|법|라틴어 lex, legis (법)|⚖️|leg = 법! 법에 맞으면 legal.
+legal|합법적인|leg+-al|법에 맞는
+illegal|불법의|il-+leg+-al|법에 어긋나는
+legislate|입법하다|legis+-late|법을 세우다
+legitimate|정당한|legit+-imate|법에 맞는
+privilege|특권|privi=개인+leg|개인에게 주어진 법
+college|대학|col-+leg|함께 법(규칙)으로 묶인 곳
+colleague|동료|col-+leag|함께 선택된 사람
+delegate|대표자|de-+leg+-ate|법을 맡겨 보내다
+loyal|충성스러운|loy=leg+-al|법에 충실한
+#jur/jus|법, 정의|라틴어 jus (법, 정의)|⚖️|jus = 정의! 올바른 판단 = justice.
+justice|정의|jus+-tice|바른 법
+judge|판사|ju=jus+dge=말하다|법을 말하는 사람
+jury|배심원단|jur+-y|맹세한 사람들
+injure|다치게 하다|in-+jur+-e|정의에 어긋나게 하다
+injury|부상|in-+jur+-y|부당한 해
+jurisdiction|관할권|juris+dict=말하다+-ion|법을 말하는 권한
+justify|정당화하다|just+-ify|옳게 만들다
+adjust|조정하다|ad-+just|~에 맞게 바로잡다
+prejudice|편견|pre-+jud+-ice|미리 내린 판단
+perjury|위증|per-+jur+-y|맹세를 어김
+#cide/cis|자르다, 죽이다|라틴어 caedere (자르다)|✂️|cis = 싹둑! 잘라 끝내면 결정(decide).
+decide|결정하다|de-+cid+-e|잘라 내다
+decision|결정|de-+cis+-ion|잘라 낸 것
+suicide|자살|sui=자신+cide|자신을 죽임
+precise|정확한|pre-+cis+-e|미리 잘라 다듬은
+concise|간결한|con-+cis+-e|함께 잘라 줄인
+incision|절개|in-+cis+-ion|안으로 자름
+scissors|가위|sci=cis+-ors|자르는 도구
+pesticide|살충제|pest+-cide|해충을 죽이는 것
+insecticide|살충제|insect+-cide|곤충을 죽이는 것
+homicide|살인|homi=사람+cide|사람을 죽임
+herbicide|제초제|herb=풀+cide|풀을 죽이는 약
+#sect/seg|자르다|라틴어 secare (자르다)|🔪|sect = 단면! 자른 부분 = section.
+section|구역|sect+-ion|잘라 낸 부분
+sector|부문|sect+-or|잘라 나눈 영역
+insect|곤충|in-+sect|몸이 잘려 마디진 동물
+dissect|해부하다|dis-+sect|따로 자르다
+intersect|교차하다|inter-+sect|사이를 자르다
+bisect|이등분하다|bi-+sect|둘로 자르다
+segment|구획, 조각|seg+-ment|잘린 조각
+#fin|끝, 경계|라틴어 finis (끝)|🏁|fin = 피니시! 끝이나 경계선.
+final|최종의|fin+-al|끝의
+finish|끝내다|fin+-ish|끝을 내다
+finite|유한한|fin+-ite|끝이 있는
+infinite|무한한|in-+fin+-ite|끝이 없는
+define|정의하다|de-+fin+-e|끝(경계)을 정하다
+definite|확실한|de-+fin+-ite|경계가 정해진
+confine|가두다|con-+fin+-e|경계 안에 함께 두다
+refine|정제하다|re-+fin+-e|다시 경계를 다듬다
+finance|재정|fin+-ance|빚을 끝내는 일
+finale|대단원|fin+-ale|마지막
+#term|끝, 경계|라틴어 terminus (경계)|🚏|term = 종착역! 끝에 선 말뚝.
+terminal|종착역|term+-inal|끝의 장소
+terminate|끝내다|term+-inate|끝을 내다
+determine|결정하다|de-+term+-ine|경계를 정하다
+exterminate|몰살하다|ex-+term+-inate|경계 밖으로 몰아내다
+term|기간, 용어|term|끝으로 정한 기간
+terminology|전문 용어|term+-inology|용어 체계
+interminable|끝없는|in-+term+-inable|끝낼 수 없는
+#rad|뿌리, 광선|라틴어 radius, radix|☢️|rad = 방사! 바퀴살처럼 퍼지는 빛.
+radius|반지름|rad+-ius|바퀴살
+radiant|빛나는|rad+-iant|빛을 내는
+radiate|방사하다|rad+-iate|빛을 퍼뜨리다
+radiation|방사선|rad+-iation|퍼지는 빛
+radio|라디오|rad+-io|전파를 퍼뜨림
+radical|급진적인, 근본적인|rad+-ical|뿌리의
+eradicate|뿌리 뽑다|e-+rad+-icate|뿌리째 뽑다
+#lumin/luc/lust|빛|라틴어 lux, lucis (빛)|💡|lumin = 루미나리에 조명! 빛과 관련 단어.
+illuminate|밝히다|il-+lumin+-ate|안을 환히 비추다
+luminous|빛나는|lumin+-ous|빛으로 가득한
+lucid|명료한|luc+-id|빛이 드는 듯한
+translucent|반투명한|trans-+luc+-ent|빛이 통과하는
+elucidate|명백히 하다|e-+luc+-idate|빛을 밖으로 비추다
+illustrate|삽화를 넣다|il-+lustr+-ate|빛을 비춰 보여 주다
+lunar|달의|lun+-ar|달의
+luminary|명사, 거장|lumin+-ary|빛나는 인물
+#sol|태양, 홀로|라틴어 sol / solus|🌞|sol은 둘: 태양(solar)과 홀로(solo).
+solar|태양의|sol+-ar|태양의
+solstice|하지·동지|sol+stice=서다|해가 멈춘 날
+parasol|양산|para-+sol|해를 막는 것
+solo|독주|sol+-o|혼자
+sole|유일한|sol+-e|혼자인
+solitary|고독한|sol+-itary|홀로 있는
+solitude|고독|sol+-itude|혼자 있음
+isolate|고립시키다|iso=섬+late|섬처럼 홀로 두다
+desolate|황량한|de-+sol+-ate|완전히 혼자 남은
+soliloquy|독백|sol+i+loqu=말하다+-y|혼자 말하기
+#astro/stell/cosm|별, 우주|그리스어 astron / 라틴어 stella / 그리스어 kosmos|🌌|astro = 별! 별을 연구하면 astronomy.
+astronomy|천문학|astro+nomy=법칙|별의 법칙
+astronaut|우주비행사|astro+naut=항해자|별을 항해하는 사람
+astrology|점성술|astro+-logy|별 이야기
+asterisk|별표|aster=별+-isk|작은 별
+disaster|재난|dis-+aster|별의 나쁜 위치
+stellar|별의, 뛰어난|stell+-ar|별의
+constellation|별자리|con-+stell+-ation|함께 모인 별들
+cosmos|우주|cosm+-os|질서 있는 세계
+cosmic|우주의|cosm+-ic|우주의
+cosmopolitan|세계적인|cosmo+polit=시민+-an|세계 시민의
+cosmetic|화장품|cosm+-etic|질서 있게 꾸밈
+microcosm|소우주|micro-+cosm|작은 우주
+lunatic|미치광이|luna=달+-tic|달에 홀린 사람
+#cycl/circ|원, 고리|그리스어 kyklos / 라틴어 circus|⭕|circ = 동그라미! 원 모양 단어.
+cycle|주기|cycl+-e|원 돌기
+circle|원|circ+-le|작은 고리
+circuit|회로|circ+-uit|한 바퀴 돌기
+circulate|순환하다|circ+-ulate|돌다
+circus|서커스|circ+-us|원형 경기장
+circular|원형의|circ+-ular|둥근
+encircle|둘러싸다|en-+circ+-le|원 안에 가두다
+cyclone|사이클론|cycl+-one|빙빙 도는 바람
+semicircle|반원|semi-+circ+-le|반쪽 원
+#sphere/cent|구, 중심|그리스어 sphaira / 라틴어 centrum|🔵|sphere = 공 모양! cent = 한가운데.
+sphere|구|sphere|공 모양
+hemisphere|반구|hemi-+sphere|반쪽 공
+atmosphere|대기|atmo=증기+sphere|증기가 둘러싼 공
+biosphere|생물권|bio-+sphere|생명의 구
+center|중심|cent+-er|한가운데
+central|중심의|cent+-ral|중심의
+concentrate|집중하다|con-+cent+-rate|중심으로 함께 모으다
+eccentric|괴짜의|ec-+cent+-ric|중심에서 벗어난
+concentric|동심의|con-+cent+-ric|중심이 같은

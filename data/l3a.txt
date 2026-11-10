@@ -1,0 +1,155 @@
+@3
+#cur/curs|달리다, 흐르다|라틴어 currere (달리다)|🏃|cur = 달려가는 흐름! 지금 흐르는 것 = current, 돈이 흐르는 것 = currency.
+current|현재의, 전류|cur+-rent|지금 달리고 있는
+currency|통화|cur+-rency|돌며 흐르는 돈
+curriculum|교육과정|cur+-riculum|달려가는 코스
+occur|일어나다|oc-+cur|~쪽으로 달려오다
+recur|재발하다|re-+cur|다시 달려오다
+excursion|소풍|ex-+curs+-ion|밖으로 달려 나감
+cursor|커서|curs+-or|달리는 표시
+concurrent|동시에 일어나는|con-+cur+-rent|함께 달리는
+course|과정, 코스|curs+-e|달리는 길
+discourse|담론|dis-+curs+-e|이리저리 달리는 말
+#ced/ceed/cess|가다|라틴어 cedere (가다)|🚶‍♂️|cess = 앞으로 한 걸음! 앞으로(pro) 가면 진행(proceed), 넘어(ex) 가면 초과(exceed).
+proceed|진행하다|pro-+ceed|앞으로 가다
+succeed|성공하다|suc-+ceed|뒤이어 가다
+exceed|초과하다|ex-+ceed|넘어 가다
+precede|앞서다|pre-+cede|앞서 가다
+recede|물러나다|re-+cede|뒤로 가다
+concede|인정하다|con-+cede|양보해 가다
+access|접근|ac-+cess|~쪽으로 가다
+process|과정|pro-+cess|앞으로 가는 것
+success|성공|suc-+cess|뒤이어 이룸
+excess|과잉|ex-+cess|넘어간 것
+procedure|절차|pro-+ced+-ure|앞으로 가는 방법
+necessary|필요한|ne-+cess+-ary|물러설 수 없는
+ancestor|조상|an=ante-+cest=cess|앞서 간 사람
+#gress/grad|걷다, 단계|라틴어 gradi (걷다)|👣|gress = 한 걸음씩! 앞으로(pro) 걸으면 진보(progress).
+progress|진전|pro-+gress|앞으로 걷다
+regress|퇴보하다|re-+gress|뒤로 걷다
+aggressive|공격적인|ag-+gress+-ive|~쪽으로 걸어가는
+congress|의회|con-+gress|함께 모이다
+digress|주제를 벗어나다|di-+gress|옆으로 걸어가다
+transgress|위반하다|trans-+gress|선을 넘어 걷다
+grade|등급|grad+-e|계단 한 칸
+gradual|점진적인|grad+-ual|한 걸음씩
+graduate|졸업하다|grad+-uate|단계를 마치다
+degree|학위, 정도|de-+gree|아래로 한 단계
+ingredient|재료|in-+gredi+-ent|안으로 들어가는 것
+#plic/ply/plex|접다, 엮다|라틴어 plicare (접다)|📄|ply = 접은 종이! 겹쳐서 끼워(im) 두면 암시(imply).
+apply|지원하다, 적용하다|ap-+ply|~쪽으로 접어 붙이다
+reply|답장하다|re-+ply|접어 되돌리다
+imply|암시하다|im-+ply|안에 접어 넣다
+supply|공급하다|sup-+ply|아래서 채워 주다
+complicate|복잡하게 하다|com-+plic+-ate|함께 접어 엮다
+complex|복잡한|com-+plex|함께 엮인
+explicit|명백한|ex-+plic+-it|밖으로 펼친
+implicit|암묵적인|im-+plic+-it|안에 접혀 있는
+employ|고용하다|em-+ploy|안에 엮어 넣다
+display|전시하다|dis-+play|접힌 것을 펼치다
+multiply|곱하다|multi-+ply|여러 겹으로 접다
+duplicate|복제하다|du=둘+plic+-ate|두 겹으로 접다
+#spir|숨쉬다|라틴어 spirare (숨쉬다)|🌬️|spir = 숨결! 안으로(in) 숨을 불어넣으면 영감(inspire).
+inspire|영감을 주다|in-+spir+-e|안에 숨을 불어넣다
+expire|만료되다|ex-+spir+-e|숨을 내쉬다
+conspire|공모하다|con-+spir+-e|함께 숨 쉬다
+respire|호흡하다|re-+spir+-e|다시 숨 쉬다
+spirit|정신|spir+-it|숨결
+perspire|땀 흘리다|per-+spir+-e|피부로 숨 쉬다
+aspire|열망하다|a-+spir+-e|~를 향해 숨 쉬다
+transpire|발생하다|trans-+spir+-e|숨이 새어 나오다
+respiration|호흡|re-+spir+-ation|다시 숨 쉬는 일
+#cord/card/cour|심장, 마음|라틴어 cor (심장)|❤️|cord = 마음! 마음에서 우러나면 cordial, 마음의 힘이 courage.
+core|핵심|cor+-e|심장
+cordial|진심 어린|cord+-ial|마음에서 우러난
+courage|용기|cour+-age|심장의 힘
+encourage|격려하다|en-+cour+-age|용기를 불어넣다
+discourage|낙담시키다|dis-+cour+-age|용기를 없애다
+accord|일치|ac-+cord|마음을 맞추다
+record|기록하다|re-+cord|마음에 다시 새기다
+discord|불화|dis-+cord|마음이 어긋남
+concord|조화|con-+cord|마음이 함께함
+cardiac|심장의|card+-iac|심장의
+#path|감정, 고통|그리스어 pathos (감정)|😢|path = 감정! 함께(sym) 느끼면 동정(sympathy).
+sympathy|동정|sym-+path+-y|함께 느끼기
+empathy|공감|em-+path+-y|감정 안으로 들어가기
+apathy|무관심|a-+path+-y|감정이 없음
+antipathy|반감|anti-+path+-y|반대 감정
+pathetic|불쌍한|path+-etic|감정을 일으키는
+pathology|병리학|path+-ology|질병 학문
+telepathy|텔레파시|tele-+path+-y|멀리서 느끼기
+#anim|생명, 마음|라틴어 anima (숨, 영혼)|🐾|anim = 생명의 숨! 숨 쉬는 모든 것.
+animal|동물|anim+-al|숨 쉬는 것
+animate|생기를 불어넣다|anim+-ate|생명을 주다
+animation|애니메이션|anim+-ation|생명을 얻은 그림
+unanimous|만장일치의|un=하나+anim+-ous|한 마음의
+magnanimous|도량이 큰|magn=큰+anim+-ous|큰 마음의
+inanimate|생명 없는|in-+anim+-ate|생명 없는
+reanimate|소생시키다|re-+anim+-ate|다시 생명 주다
+#psych|마음, 정신|그리스어 psyche (영혼)|🧠|psych = 마음! 마음을 연구하는 학문 = psychology.
+psychology|심리학|psych+-ology|마음 학문
+psychiatrist|정신과 의사|psych+iatr=치료+-ist|마음 치료사
+psychic|초능력자|psych+-ic|영혼의
+psychotherapy|심리 치료|psycho+therapy=치료|마음 치료
+psyche|정신|psych+-e|영혼
+psychosis|정신병|psych+-osis|마음의 병
+#phil|사랑하다|그리스어 philos (사랑)|💕|phil = 사랑! 지혜(sophia)를 사랑하면 philosophy.
+philosophy|철학|phil+sophy=지혜|지혜를 사랑함
+philanthropy|박애, 자선|phil+anthrop=인간+-y|인간을 사랑함
+bibliophile|애서가|biblio=책+phile|책을 사랑하는 사람
+anglophile|영국을 좋아하는 사람|anglo=영국+phile|영국 애호가
+philharmonic|음악 애호의|phil+harmonic=조화|음악 사랑
+hydrophilic|친수성의|hydro=물+phil+-ic|물을 사랑하는
+#anthrop/andr|인간, 남자|그리스어 anthropos / aner|🧑|anthrop = 사람! 사람을 연구하는 학문 = anthropology.
+anthropology|인류학|anthrop+-ology|인간 학문
+misanthrope|인간 혐오자|mis=미워하다+anthrop|인간을 미워하는 사람
+anthropoid|유인원|anthrop+-oid|사람 비슷한
+android|안드로이드|andr+-oid|사람 모양 로봇
+androgynous|양성적인|andr+gyn=여자+-ous|남자와 여자를 함께
+#gen|태어나다, 종류|라틴어 genus / 그리스어 genos|🧬|gen = 탄생! 새로 낳아 만들면 generate, 같은 종류를 모두 가리키면 general.
+generate|발생시키다|gen+-erate|낳다
+general|일반적인|gen+-eral|종류 전체의
+generation|세대|gen+-eration|태어난 무리
+genuine|진짜의|gen+-uine|타고난
+genius|천재|gen+-ius|타고난 재능
+genre|장르|gen+-re|종류
+gene|유전자|gen+-e|태어남의 단위
+genetic|유전의|gen+-etic|태어남에 관한
+genesis|기원|gen+-esis|태어남
+gender|성별|gen+-der|종류
+generous|관대한|gen+-erous|타고난 품위 있는
+degenerate|퇴화하다|de-+gen+-erate|종류에서 떨어지다
+regenerate|재생하다|re-+gen+-erate|다시 낳다
+congenial|마음이 맞는|con-+gen+-ial|같은 성질의
+ingenious|독창적인|in-+gen+-ious|타고난 재주 있는
+genocide|집단 학살|geno=종족+-cide|종족을 죽임
+#nat|태어나다|라틴어 nasci (태어나다)|👶|nat = 갓 태어난! 타고난 그대로 = natural.
+nature|자연|nat+-ure|태어난 그대로
+native|태생의|nat+-ive|태어난 곳의
+national|국가의|nat+-ional|같은 곳에서 태어난
+natural|자연스러운|nat+-ural|타고난
+nation|국가|nat+-ion|태어난 사람들
+innate|타고난|in-+nat+-e|안에서 태어난
+prenatal|출산 전의|pre-+nat+-al|태어나기 전의
+nativity|탄생|nat+-ivity|태어남
+naive|순진한|nat=태어난+-ive|갓 태어난 듯한
+renaissance|르네상스|re-+nais=태어나다+-ance|다시 태어남
+#pater/mater/fra|아버지, 어머니, 형제|라틴어 pater / mater / frater|👨‍👩‍👧|pater = 아빠 (patriot), mater = 엄마 (maternal), frater = 형제.
+paternal|아버지의|pater+-nal|아버지의
+patriot|애국자|patr=아버지+-iot|조국(아버지의 땅)을 사랑
+patron|후원자|patr+-on|아버지 같은 보호자
+patriarch|가장|patri+arch=우두머리|아버지 우두머리
+maternal|어머니의|mater+-nal|어머니의
+maternity|임신, 모성|mater+-nity|어머니 됨
+material|재료|mater+-ial|어머니(근원)가 되는 것
+matrix|모체|mat+-rix|어머니 자궁
+fraternal|형제의|frater+-nal|형제의
+fraternity|우애|frater+-nity|형제애
+#domin|주인, 집|라틴어 dominus (주인)|👑|domin = 집주인! 집주인처럼 지배하면 dominate.
+dominate|지배하다|domin+-ate|주인 행세하다
+dominant|지배적인|domin+-ant|주인 같은
+domain|영역|domin+-ain|주인의 땅
+dominion|통치권|domin+-ion|주인의 권력
+domestic|가정의|dome=집+-stic|집의
+domicile|거주지|domi=집+cile|사는 곳
+predominant|우세한|pre-+domin+-ant|앞서 지배하는

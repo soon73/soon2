@@ -1,0 +1,121 @@
+#sun|해|고대 영어 sunne|☀️|sun이 들어간 합성어는 '해'만 떠올리면 끝! 해 + 꽃 = 해바라기.
+sunflower|해바라기|sun=해+flower=꽃
+sunlight|햇빛|sun=해+light=빛
+sunrise|해돋이|sun=해+rise=오르다
+sunset|해넘이|sun=해+set=지다
+sunshine|햇살|sun=해+shine=빛나다
+sunglasses|선글라스|sun=해+glasses=안경
+sunburn|햇볕에 탐|sun=해+burn=타다
+#water|물|고대 영어 wæter|💧|water는 '물' 하나로 합성어 수확!
+waterfall|폭포|water=물+fall=떨어지다
+watermelon|수박|water=물+melon=멜론
+waterproof|방수의|water=물+proof=막는
+watercolor|수채화|water=물+color=색
+watermark|워터마크|water=물+mark=표시
+#fire|불|고대 영어 fyr|🔥|fire = 불. 불 + 새로운 말 = 쉬운 합성어.
+firefly|반딧불이|fire=불+fly=날다
+firefighter|소방관|fire=불+fighter=싸우는 사람
+fireplace|벽난로|fire=불+place=장소
+fireworks|불꽃놀이|fire=불+works=작품
+firewood|장작|fire=불+wood=나무
+campfire|모닥불|camp=야영+fire=불
+#book|책|고대 영어 boc|📚|book은 '책'. 앞뒤에 붙여 책 관련 단어 완성.
+bookstore|서점|book=책+store=가게
+bookshelf|책꽂이|book=책+shelf=선반
+notebook|공책|note=메모+book=책
+textbook|교과서|text=글+book=책
+handbook|안내서|hand=손+book=책
+bookmark|책갈피|book=책+mark=표시
+#home|집|고대 영어 ham|🏡|home = 집. 집과 관련된 말은 전부 한 가족.
+homework|숙제|home=집+work=일
+homesick|향수병의|home=집+sick=아픈
+hometown|고향|home=집+town=마을
+homepage|홈페이지|home=집+page=쪽
+homemade|집에서 만든|home=집+made=만든
+homeland|조국|home=집+land=땅
+#day/night|낮과 밤|고대 영어 dæg / niht|🌗|day와 night를 붙이면 시간 표현 완성!
+daylight|일광|day=낮+light=빛
+daytime|낮 시간|day=낮+time=시간
+birthday|생일|birth=탄생+day=날
+holiday|휴일|holy=신성한+day=날
+weekday|평일|week=주+day=날
+today|오늘|to=~에+day=날
+tonight|오늘 밤|to=~에+night=밤
+midnight|자정|mid-+night=밤
+nightmare|악몽|night=밤+mare=악령
+overnight|밤새|over-+night=밤
+#body|몸|고대 영어 bodig|🧍|몸의 부분 + 다른 말 = 쉬운 합성어.
+toothbrush|칫솔|tooth=이+brush=솔
+toothache|치통|tooth=이+ache=통증
+headache|두통|head=머리+ache=통증
+stomachache|복통|stomach=배+ache=통증
+haircut|이발|hair=머리카락+cut=자르다
+fingernail|손톱|finger=손가락+nail=손톱
+handshake|악수|hand=손+shake=흔들다
+handwriting|필체|hand=손+writing=쓰기
+footprint|발자국|foot=발+print=자국
+barefoot|맨발의|bare=벌거벗은+foot=발
+#air|공기, 하늘|고대 영어 aer|✈️|air는 '하늘/공기'. 비행 관련 단어를 한 번에.
+airplane|비행기|air=공기+plane=판
+airport|공항|air=공기+port=항구
+airline|항공사|air=공기+line=선
+airmail|항공우편|air=공기+mail=우편
+aircraft|항공기|air=공기+craft=기술/탈것
+airbag|에어백|air=공기+bag=가방
+#rain/snow/wind|비·눈·바람|고대 영어 regn / snaw / wind|🌈|날씨 단어 + 다른 말 = 쉬운 합성어.
+rainbow|무지개|rain=비+bow=활
+raincoat|비옷|rain=비+coat=외투
+raindrop|빗방울|rain=비+drop=방울
+snowman|눈사람|snow=눈+man=사람
+snowball|눈덩이|snow=눈+ball=공
+snowflake|눈송이|snow=눈+flake=조각
+windmill|풍차|wind=바람+mill=방앗간
+thunderstorm|뇌우|thunder=천둥+storm=폭풍
+#up-/down-|위로, 아래로|고대 영어 up / dun|↕️|up은 '위로 쑥', down은 '아래로 쑥'.
+upstairs|위층으로|up-+stairs=계단
+upload|업로드하다|up-+load=싣다
+upgrade|업그레이드하다|up-+grade=등급
+upset|속상한|up-+set=놓다
+uphill|오르막의|up-+hill=언덕
+download|다운로드하다|down-+load=싣다
+downtown|시내|down-+town=마을
+downstairs|아래층으로|down-+stairs=계단
+downhill|내리막의|down-+hill=언덕
+#co-|함께|라틴어 co-(com-)|🤝|co는 '손잡고 같이'!
+coworker|동료|co-+worker=일하는 사람
+cooperate|협력하다|co-+operate=작동하다
+coexist|공존하다|co-+exist=존재하다
+copilot|부조종사|co-+pilot=조종사
+coauthor|공동 저자|co-+author=저자
+#bi-/tri-/uni-|둘, 셋, 하나|라틴어 bi- / tri- / uni-|2️⃣|bi는 2, tri는 3, uni는 1! 숫자만 알면 뜻이 보여요.
+bicycle|자전거|bi-+cycle=바퀴
+bilingual|2개 언어를 쓰는|bi-+lingu=혀·언어+-al
+biweekly|격주의|bi-+week=주+-ly
+binoculars|쌍안경|bi-+ocul=눈+-ars
+triangle|삼각형|tri-+angle=각
+tricycle|세발자전거|tri-+cycle=바퀴
+triple|세 배의|tri-+ple=겹
+trio|3인조|tri-+o=조
+unicycle|외발자전거|uni-+cycle=바퀴
+uniform|제복|uni-+form=모양
+unite|통합하다|uni-+te=만들다
+unique|유일한|uni-+que=하나
+universe|우주|uni-+verse=돌다
+#fore-|앞|고대 영어 fore|👉|fore는 '앞에!' 미리, 또는 앞쪽.
+forehead|이마|fore-+head=머리
+forecast|예보|fore-+cast=던지다
+foresee|예견하다|fore-+see=보다
+foretell|예언하다|fore-+tell=말하다
+forefinger|집게손가락|fore-+finger=손가락
+forefather|조상|fore-+father=아버지
+foreword|머리말|fore-+word=말
+foreground|전경|fore-+ground=땅
+#non-/anti-|아닌, 반대하는|라틴어 non / 그리스어 anti|🛑|non은 '아님', anti는 '맞서 반대'.
+nonstop|중단 없는|non-+stop=멈추다
+nonsense|말도 안 되는 소리|non-+sense=의미
+nonfiction|논픽션|non-+fiction=허구
+nonviolent|비폭력의|non-+violent=폭력적인
+antibody|항체|anti-+body=몸
+antisocial|반사회적인|anti-+social=사회적인
+antiwar|반전의|anti-+war=전쟁
+antifreeze|부동액|anti-+freeze=얼다

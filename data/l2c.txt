@@ -1,0 +1,148 @@
+#sens/sent|느끼다|라틴어 sentire (느끼다)|💓|sens = 촉! 느낄 수 있는 = sensible, 느끼는 장치 = sensor.
+sense|감각|sens+-e|느낌
+sensible|분별 있는|sens+-ible|느낌을 아는
+sensitive|민감한|sens+-itive|잘 느끼는
+sensor|센서|sens+-or|느끼는 장치
+sensation|느낌, 선풍적 반응|sens+-ation|느끼는 것
+consent|동의|con-+sent|함께 느끼다
+resent|분개하다|re-+sent|다시 느끼다 (불쾌하게)
+sentiment|감정|sent+-iment|느낌
+dissent|반대|dis-+sent|다르게 느끼다
+assent|찬성하다|as-+sent|~쪽으로 느끼다
+sentence|문장, 판결|sent+-ence|생각을 담은 말
+#nov/new|새로운|라틴어 novus (새로운)|✨|nov = 뉴! 새롭게 만들면 혁신(innovate).
+novel|소설, 새로운|nov+-el|새로운 이야기
+novice|초보자|nov+-ice|새로 온 사람
+renew|갱신하다|re-+new|다시 새롭게
+innovate|혁신하다|in-+nov+-ate|안에 새것을 넣다
+innovation|혁신|in-+nov+-ation|새로운 시도
+novelty|신기함|nov+-elty|새로운 것
+renovate|개조하다|re-+nov+-ate|다시 새롭게 만들다
+#temp|시간, 때|라틴어 tempus (시간)|⏳|temp = 템포! 시간 속의 일시적(temporary).
+temporary|임시의|temp+-orary|한때의
+contemporary|동시대의|con-+temp+-orary|같은 시간대의
+tempo|박자|temp+-o|시간의 속도
+temporal|시간의|temp+-oral|시간에 관한
+temper|성질, 기질|temp+-er|때에 따라 섞인 기질
+temperate|온화한|temp+-erate|균형 잡힌
+temperature|온도|temp+-erature|열과 때의 정도
+tempest|폭풍|temp+-est|때를 만난 거센 날씨
+#man/manu|손|라틴어 manus (손)|🖐️|man = 손! 손으로 하는 = manual, 손으로 다루다 = manage.
+manual|수동의, 설명서|man+-ual|손으로 하는
+manage|관리하다|man+-age|손으로 다루다
+manner|방식, 예절|man+-ner|손놀림 같은 태도
+manipulate|조종하다|man+-ipulate|손으로 다루다
+maneuver|기동 작전|man+-euver|손으로 일하다
+manicure|매니큐어 손질|mani+cure=돌봄|손 관리
+command|명령하다|com-+man+-d|손에 맡기다
+mandatory|의무적인|man+-datory|손에 맡겨진
+#loc|장소|라틴어 locus (장소)|📍|loc = 로케이션! 장소와 관련된 모든 단어.
+local|지역의|loc+-al|장소의
+locate|위치를 찾다|loc+-ate|자리를 정하다
+location|위치|loc+-ation|장소
+allocate|할당하다|al-+loc+-ate|~곳에 자리를 주다
+relocate|이전하다|re-+loc+-ate|다시 자리를 옮기다
+dislocate|탈구시키다|dis-+loc+-ate|제자리에서 벗어나게 하다
+locale|현장|loc+-ale|장소
+#terr|땅|라틴어 terra (땅)|🌍|terr = 대지! 땅 위의 모든 것.
+territory|영토|terr+-itory|땅
+terrain|지형|terr+-ain|땅의 모양
+terrace|테라스|terr+-ace|흙을 쌓아 올린 땅
+terrestrial|지구의|terr+-estrial|땅의
+terrier|테리어견|terr+-ier|땅을 파는 개
+mediterranean|지중해의|medi=가운데+terr+-anean|땅 한가운데 있는
+extraterrestrial|외계인|extra-+terr+-estrial|땅 밖의 존재
+subterranean|지하의|sub-+terr+-anean|땅 아래의
+#aqua/hydr|물|라틴어 aqua / 그리스어 hydor|🐠|aqua(라틴)와 hydr(그리스)는 둘 다 '물'.
+aquarium|수족관|aqua+-rium|물고기를 두는 곳
+aquatic|수생의|aqua+-tic|물의
+aquamarine|청록색 보석|aqua+marine=바다|바닷물 색
+hydrant|소화전|hydr+-ant|물이 나오는 장치
+hydrogen|수소|hydro+gen=만들다|물을 만드는 원소
+dehydrate|탈수시키다|de-+hydr+-ate|물을 빼다
+hydroelectric|수력 발전의|hydro+electric=전기의|물로 만든 전기
+hydrate|수분을 공급하다|hydr+-ate|물을 주다
+#vit/viv|삶, 살다|라틴어 vita / vivere|🌱|vit = 바이탈! 살아 있는 것 모두.
+vital|필수적인|vit+-al|생명에 관한
+vitamin|비타민|vit+-amin|생명에 꼭 필요한 아민
+vitality|활력|vit+-ality|살아 있는 기운
+revive|되살리다|re-+viv+-e|다시 살게 하다
+survive|살아남다|sur-+viv+-e|넘어서 살다
+survivor|생존자|sur-+viv+-or|살아남은 사람
+vivid|생생한|viv+-id|살아 있는 듯한
+revival|부활|re-+viv+-al|다시 살아남
+vivacious|활기찬|viv+-acious|살아 움직이는
+#son/phon|소리|라틴어 sonus / 그리스어 phone|🔊|son·phon은 둘 다 '소리'! 멀리(tele) 소리를 보내면 telephone.
+sound|소리|son+-d|소리
+resonance|울림|re-+son+-ance|다시 울리는 소리
+unison|일치|uni-+son|하나의 소리
+sonic|음파의|son+-ic|소리의
+sonar|음파 탐지기|son+-ar|소리로 찾는 장치
+consonant|자음|con-+son+-ant|함께 소리 나는 것
+supersonic|초음속의|super-+son+-ic|소리보다 위의
+ultrasonic|초음파의|ultra-+son+-ic|소리 너머의
+telephone|전화|tele-+phone|멀리 보내는 소리
+microphone|마이크|micro-+phone|작은 소리를 키우는 것
+symphony|교향곡|sym-+phon+-y|함께 내는 소리
+phonics|파닉스|phon+-ics|소리 학문
+saxophone|색소폰|sax+phone|색스가 만든 소리 관악기
+headphone|헤드폰|head=머리+phone|머리에 쓰는 소리
+megaphone|확성기|mega-+phone|큰 소리
+phonetic|음성의|phon+-etic|소리의
+#graph/gram|쓰다, 그리다|그리스어 graphein (쓰다)|📝|graph = 그래프! 쓰고 그린 것.
+graph|그래프|graph|그려 쓴 것
+photograph|사진|photo=빛+graph|빛으로 쓴 것
+paragraph|문단|para-+graph|옆에 쓴 표시
+autograph|사인|auto-+graph|스스로 쓴 것
+biography|전기|bio-+graph+-y|생애를 쓴 것
+geography|지리학|geo-+graph+-y|땅을 쓴 것
+telegraph|전신|tele-+graph|멀리 쓰는 것
+program|프로그램|pro-+gram|앞에 쓴 것
+telegram|전보|tele-+gram|멀리 보낸 글
+diagram|도표|dia-+gram|가로질러 그린 것
+grammar|문법|gram+-mar|글자의 규칙
+#meter/metr|재다, 측정|그리스어 metron (잣대)|📏|meter = 미터기! 재는 도구.
+meter|미터기, 미터|meter|재는 것
+thermometer|온도계|thermo=열+meter|열을 재는 도구
+kilometer|킬로미터|kilo=천+meter|천 미터
+centimeter|센티미터|centi=백분의 일+meter|백분의 일 미터
+barometer|기압계|baro=무게+meter|기압을 재는 도구
+speedometer|속도계|speed+o+meter|속도를 재는 도구
+diameter|지름|dia-+meter|가로질러 잰 길이
+geometry|기하학|geo-+metr+-y|땅을 재는 학문
+symmetry|대칭|sym-+metr+-y|함께 맞춰 잰
+perimeter|둘레|peri-+meter|주위를 잰 길이
+#bio|생명|그리스어 bios (삶)|🧬|bio = 생명! 삶과 관련된 학문·단어.
+biology|생물학|bio+-logy|생명 학문
+biography|전기 (생애 기록)|bio-+graphy|삶을 쓴 것
+antibiotic|항생제|anti-+bio+-tic|생명(균)에 맞서는
+biodiversity|생물 다양성|bio+diversity=다양성|생명의 다양함
+bionic|생체 공학의|bio+-nic|생명 기능을 닮은
+symbiosis|공생|sym-+bio+-sis|함께 사는 삶
+microbe|미생물|micro-+bio=삶|아주 작은 생명
+biome|생물군계|bio+-me|생명 무리
+#geo|땅, 지구|그리스어 ge (땅)|🌐|geo = 지구본! 땅 관련 단어.
+geology|지질학|geo+-logy|땅 학문
+geometry|기하학 (측량)|geo+metr+-y|땅을 재는 것
+geographic|지리적인|geo+graph+-ic|땅을 기록한
+geothermal|지열의|geo+thermal=열의|땅의 열
+geocentric|지구 중심의|geo+centr=중심+-ic|지구를 중심으로 한
+#photo|빛|그리스어 phos (빛)|📸|photo = 빛! 빛으로 만든 것.
+photo|사진|photo|빛으로 찍은 것
+photographer|사진작가|photo+graph+-er|빛으로 쓰는 사람
+photosynthesis|광합성|photo+synthesis=합성|빛으로 합쳐 만들기
+photocopy|복사|photo+copy=복사|빛으로 복사하다
+photogenic|사진이 잘 받는|photo+gen=낳다+-ic|빛 잘 받는
+telephoto|망원 렌즈|tele-+photo|멀리 찍는 빛
+#tele-|멀리|그리스어 tele (멀리)|🔭|tele = 멀리! 거리를 뛰어넘어요.
+telescope|망원경|tele-+scope=보다|멀리 보는 기구
+telecommunication|통신|tele-+communication=소통|멀리서 하는 소통
+telepathy|텔레파시|tele-+path=느낌+-y|멀리 느끼는 힘
+telework|재택근무|tele-+work=일|멀리서 일하다
+teleconference|화상회의|tele-+conference=회의|멀리서 하는 회의
+#chron|시간|그리스어 chronos (시간)|🕰️|chron = 크로노스 시계! 시간에 관한 말.
+chronic|만성의|chron+-ic|오래 지속되는
+chronicle|연대기|chron+-icle|시간 순 기록
+chronological|시간순의|chron+-ological|시간 순서의
+synchronize|동시에 맞추다|syn-+chron+-ize|시간을 함께 맞추다
+anachronism|시대착오|ana-+chron+-ism|시간이 어긋난 것

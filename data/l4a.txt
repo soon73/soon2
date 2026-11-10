@@ -1,0 +1,164 @@
+@4
+#sequ/secu|따르다|라틴어 sequi (따르다)|🚶‍♀️|sequ = 줄줄이 따라가기! 뒤따르는 결과 = consequence.
+sequence|순서|sequ+-ence|이어지는 것
+consequence|결과|con-+sequ+-ence|함께 뒤따르는 것
+subsequent|그다음의|sub-+sequ+-ent|바로 뒤따르는
+sequel|속편|sequ+-el|뒤따르는 이야기
+persecute|박해하다|per-+secu+-te|끝까지 쫓아가다
+execute|실행하다|ex-+secu+-te|끝까지 따라 해내다
+pursue|추구하다|pur-+sue=sequ|앞으로 쫓다
+consecutive|연속적인|con-+secu+-tive|계속 따르는
+second|두 번째|sec=sequ+-ond|뒤따르는
+prosecute|기소하다|pro-+secu+-te|앞으로 추궁하다
+#ven/vent|오다|라틴어 venire (오다)|🚪|vent = 와서 생기는 일! 밖으로(e) 나와 일어난 것 = event.
+event|사건|e-+vent|밖으로 나온 일
+convene|소집하다|con-+ven+-e|함께 오다
+convention|관습, 대회|con-+vent+-ion|함께 모이는 것
+venture|모험|vent+-ure|닥쳐오는 일
+adventure|모험|ad-+vent+-ure|~쪽으로 다가오는 일
+avenue|대로|a-+ven+-ue|~로 오는 길
+revenue|수익|re-+ven+-ue|되돌아온 돈
+intervene|개입하다|inter-+ven+-e|사이에 오다
+venue|장소|ven+-ue|오는 곳
+souvenir|기념품|sou=sub-+ven+-ir|아래서 떠오르다
+circumvent|우회하다|circum-+vent|주위를 돌아 오다
+contravene|위반하다|contra-+ven+-e|반대로 오다
+#vol/volv|돌다, 의지|라틴어 volvere / velle|🎡|volv = 빙글! 안으로(in) 휘감기면 involve.
+revolve|회전하다|re-+volv+-e|되돌아 돌다
+evolve|진화하다|e-+volv+-e|밖으로 펼쳐지다
+involve|포함시키다|in-+volv+-e|안으로 휘감다
+volume|부피, 음량|volum+-e|둘둘 말린 두루마리
+revolution|혁명|re-+volut+-ion|뒤집어 도는 것
+evolution|진화|e-+volut+-ion|펼쳐 나오는 것
+voluntary|자발적인|volunt+-ary|의지로 하는
+volunteer|자원봉사자|volunt+-eer|스스로 원하는 사람
+malevolent|악의적인|male=mal+vol+-ent|나쁜 의지의
+volition|의지|vol+-ition|뜻
+devolve|넘기다|de-+volv+-e|아래로 굴려 넘기다
+#tend/tens|뻗다, 늘이다|라틴어 tendere (뻗다)|📏|tend = 쭉 뻗기! 밖으로(ex) 뻗으면 extend.
+extend|연장하다|ex-+tend|밖으로 뻗다
+intend|의도하다|in-+tend|마음을 쭉 뻗다
+attend|참석하다|at-+tend|~쪽으로 뻗다
+tend|~하는 경향이 있다|tend|뻗어 가다
+tension|긴장|tens+-ion|팽팽히 당긴 상태
+intense|강렬한|in-+tens+-e|팽팽하게 당겨진
+pretend|~인 척하다|pre-+tend|앞에 펼쳐 놓다
+contend|다투다|con-+tend|서로 맞서 뻗다
+extent|정도|ex-+tent|뻗은 범위
+tendency|경향|tend+-ency|뻗어 가는 방향
+attention|주의|at-+tent+-ion|마음을 뻗음
+intention|의도|in-+tent+-ion|마음이 뻗은 곳
+extensive|광범위한|ex-+tens+-ive|넓게 뻗은
+tent|텐트|tent|쭉 펼친 천
+superintendent|감독관|super-+intend+-ent|위에서 지켜보는 사람
+#strict/string|조이다|라틴어 stringere (팽팽히 조이다)|🪢|strict = 꽉 조인! 엄격하고 한정된.
+strict|엄격한|strict|꽉 조인
+restrict|제한하다|re-+strict|뒤로 조여 놓다
+constrict|조이다|con-+strict|함께 꽉 조이다
+district|구역|di-+strict|따로 묶인 구역
+stringent|엄격한|string+-ent|팽팽한
+strain|긴장, 부담|strain|팽팽히 당김
+restrain|제지하다|re-+strain|뒤로 잡아당기다
+constrain|억제하다|con-+strain|함께 묶다
+distress|고통|di-+stress|따로 잡아당기는 괴로움
+stress|스트레스|stress|팽팽한 압박
+#struct|짓다, 쌓다|라틴어 struere (쌓다)|🏗️|struct = 쌓아 올리기! 함께(con) 쌓으면 construct.
+structure|구조|struct+-ure|쌓은 모양
+construct|건설하다|con-+struct|함께 쌓다
+destroy|파괴하다|de-+stroy=struct|쌓은 것을 무너뜨리다
+instruct|가르치다|in-+struct|안에 쌓아 주다
+obstruct|방해하다|ob-+struct|맞서 쌓다
+industry|산업|indu=in+stry=struct|안에서 쌓아 가는 일
+instrument|도구, 악기|in-+stru+-ment|쌓는 데 쓰는 것
+infrastructure|기반 시설|infra=아래+structure|아래 구조
+destruction|파괴|de-+struct+-ion|무너뜨림
+reconstruct|재건하다|re-+construct|다시 쌓다
+construction|건설|con-+struct+-ion|함께 쌓는 일
+constructive|건설적인|con-+struct+-ive|쌓아 올리는
+#lig|묶다|라틴어 ligare (묶다)|🔗|lig = 끈! 묶여 있어서 해야 하는 것 = obligation.
+oblige|강요하다|ob-+lig+-e|~에게 묶다
+obligation|의무|ob-+lig+-ation|묶인 것
+religion|종교|re-+lig+-ion|다시 묶는 것(신과)
+ligament|인대|lig+-ament|묶는 조직
+rely|의지하다|re-+ly=lig|다시 묶여 기대다
+ally|동맹국|al-+ly=lig|~에 묶인 나라
+alliance|동맹|al-+li+-ance|함께 묶임
+liable|책임이 있는|li=lig+-able|묶일 수 있는
+liaison|연락|li+-aison|묶는 연결
+league|연맹|leag=lig+-ue|묶인 단체
+#solv/solu|풀다, 녹이다|라틴어 solvere (풀다)|🔓|solv = 풀기! 문제를 풀면 solve, 녹이면 dissolve.
+solve|해결하다|solv+-e|풀다
+solution|해결책|solu+-tion|풀린 것
+resolve|결심하다|re-+solv+-e|다시 풀어내다
+dissolve|녹이다|dis-+solv+-e|풀어 흩다
+absolute|절대적인|ab-+solu+-te|풀려나 자유로운
+resolution|결의|re-+solu+-tion|풀어낸 결심
+solvent|용매|solv+-ent|풀어주는 것
+absolve|면제하다|ab-+solv+-e|죄에서 풀어주다
+insoluble|풀 수 없는|in-+solu+-ble|풀리지 않는
+#sist|서다|라틴어 sistere (서다)|🧱|sist = 꿋꿋이 서기! 맞서 서면 resist.
+persist|끈질기게 계속하다|per-+sist|끝까지 서 있다
+resist|저항하다|re-+sist|맞서 서다
+insist|고집하다|in-+sist|위에 버티고 서다
+consist|구성되다|con-+sist|함께 서 있다
+assist|돕다|as-+sist|옆에 서다
+exist|존재하다|ex-+ist|밖으로 서 있다
+subsist|근근이 살다|sub-+sist|아래서 버텨 서다
+desist|그만두다|de-+sist|서서 멈추다
+resistance|저항|re-+sist+-ance|맞서 서는 힘
+existence|존재|ex-+ist+-ence|서 있음
+assistant|조수|as-+sist+-ant|옆에 서는 사람
+insistent|고집하는|in-+sist+-ent|버티는
+#cura/cure|돌보다|라틴어 cura (돌봄)|🩺|cure = 돌봄! 돌봐서 낫게 하면 cure.
+cure|치료하다|cure|돌봄
+curious|호기심 많은|cur+-ious|돌보듯 살피는
+accurate|정확한|ac-+cur+-ate|정성껏 돌본
+secure|안전한|se-+cure|걱정 없이 돌봐진
+security|보안|se-+cur+-ity|걱정 없음
+curator|큐레이터|cur+-ator|돌보는 사람
+procure|조달하다|pro-+cure|앞서 돌보다
+obscure|모호한|ob-+scure|덮여 가려진
+#sat|충분한|라틴어 satis (충분한)|😋|sat = 배불리! 충분하게 채우면 satisfy.
+satisfy|만족시키다|satis+-fy|충분하게 하다
+satisfaction|만족|satis+-faction|충분히 채움
+saturate|흠뻑 적시다|sat+-urate|가득 채우다
+satiate|물리게 하다|sat+-iate|실컷 채우다
+insatiable|만족할 줄 모르는|in-+sat+-iable|채울 수 없는
+dissatisfy|불만족스럽게 하다|dis-+satisfy|만족을 없애다
+#grat|기쁜, 고마운|라틴어 gratus (기쁜)|🙏|grat = 감사! 기쁜 마음.
+grateful|감사하는|grat+-eful|고마워하는
+gratitude|감사|grat+-itude|고마움
+gratify|만족시키다|grat+-ify|기쁘게 하다
+congratulate|축하하다|con-+grat+-ulate|함께 기뻐하다
+gratuity|팁|grat+-uity|기쁨의 선물
+grace|우아함|grac=grat+-e|기쁨 주는 품격
+gracious|상냥한|grac+-ious|품격 있는
+disgrace|불명예|dis-+grace|품격을 잃음
+#sacr/sanct|신성한|라틴어 sacer / sanctus|⛪|sacr = 거룩한! 신에게 바친 것.
+sacred|신성한|sacr+-ed|거룩한
+sacrifice|희생|sacr+-ifice|신성하게 만들기
+sanctuary|성역|sanct+-uary|거룩한 장소
+sanction|제재, 승인|sanct+-ion|신성하게 확정함
+saint|성인|saint=sanct|거룩한 사람
+consecrate|봉헌하다|con-+secr+-ate|함께 신성하게 하다
+sacrament|성사|sacr+-ament|신성한 의식
+sacrilege|신성모독|sacr+i+leg=훔치다|신성한 것을 훔침
+#scend/scal|오르다|라틴어 scandere (오르다)|🪜|scend = 계단 오르기! 위로(a) 오르면 ascend.
+ascend|오르다|a-+scend|위로 오르다
+descend|내려오다|de-+scend|아래로 오르내리다
+transcend|초월하다|trans-+scend|넘어서 오르다
+scale|규모, 저울|scal+-e|사다리 눈금
+escalate|확대되다|e-+scal+-ate|사다리 오르듯 커지다
+escalator|에스컬레이터|escal+-ator|오르는 장치
+condescend|생색내다|con-+de-+scend|함께 내려와 봐주다
+descendant|후손|de-+scend+-ant|내려온 사람
+ascent|상승|a-+scent|올라감
+#sci|알다|라틴어 scire (알다)|🔬|sci = 앎! 아는 학문이 science.
+science|과학|sci+-ence|아는 것
+conscience|양심|con-+sci+-ence|함께 아는 마음
+conscious|의식하는|con-+sci+-ous|알고 있는
+omniscient|전지의|omni=모두+sci+-ent|모두 아는
+scientific|과학적인|sci+-entific|과학의
+prescient|선견지명 있는|pre-+sci+-ent|미리 아는
+unconscious|무의식의|un-+conscious|알지 못하는
+subconscious|잠재의식의|sub-+conscious|의식 아래의

@@ -1,0 +1,179 @@
+#form|모양, 형성하다|라틴어 forma (모양)|🧱|form = 틀! 틀을 가로질러(trans) 바꾸면 변형(transform).
+form|형태, 형성하다|form|모양
+perform|공연하다, 수행하다|per-+form|끝까지 모양을 갖추다
+reform|개혁하다|re-+form|다시 모양을 만들다
+transform|변형시키다|trans-+form|모양을 가로질러 바꾸다
+conform|따르다|con-+form|함께 같은 모양이 되다
+formal|공식적인|form+-al|틀을 갖춘
+format|형식|form+-at|모양 틀
+formula|공식|form+-ula|작은 틀
+platform|승강장, 플랫폼|plat=평평한+form|평평한 틀
+deform|변형시키다|de-+form|모양을 망가뜨리다
+formation|형성|form+-ation|모양이 만들어짐
+#press|누르다|라틴어 pressare (누르다)|👇|press = 꾹! 밖으로(ex) 눌러 내보내면 표현(express).
+press|누르다, 언론|press|누르다
+express|표현하다|ex-+press|밖으로 눌러 내다
+impress|감동을 주다|im-+press|안쪽에 눌러 찍다
+compress|압축하다|com-+press|함께 눌러 붙이다
+depress|우울하게 하다|de-+press|아래로 누르다
+oppress|억압하다|op-+press|맞서 짓누르다
+suppress|억제하다|sup-+press|아래로 눌러 두다
+pressure|압력|press+-ure|누르는 힘
+repress|억누르다|re-+press|뒤로 눌러 두다
+impression|인상|im-+press+-ion|마음에 눌려 찍힌 것
+expression|표현|ex-+press+-ion|눌러 밖으로 낸 것
+depression|우울증|de-+press+-ion|아래로 눌린 상태
+#pend/pens|매달다, 무게를 달다|라틴어 pendere (매달다)|⚖️|pend = 대롱대롱! 아래로(de) 매달려 있으면 의존(depend).
+depend|의존하다|de-+pend|아래에 매달리다
+suspend|중단하다, 매달다|sus-+pend|아래에 매달아 두다
+pending|미결의|pend+-ing|매달려 있는 중인
+pendulum|진자|pend+-ulum|매달려 흔들리는 것
+expend|소비하다|ex-+pend|밖으로 무게를 달아 내다
+expense|비용|ex-+pens+-e|밖으로 나간 돈
+expensive|비싼|ex-+pens+-ive|돈이 많이 나가는
+pension|연금|pens+-ion|달아서 지급하는 돈
+spend|쓰다|s=dis-+pend|저울에 달아 내주다
+suspense|긴장감|sus-+pens+-e|매달려 있는 상태
+compensate|보상하다|com-+pens+-ate|무게를 맞춰 주다
+appendix|부록, 맹장|ap-+pend+-ix|매달린 것
+pendant|펜던트|pend+-ant|매달린 것
+dependent|의존하는|de-+pend+-ent|매달려 있는
+#tract|끌다|라틴어 trahere (끌다)|🚜|tract = 질질! 쪽으로(at) 끌면 매력(attract).
+attract|끌어당기다|at-+tract|~쪽으로 끌다
+contract|계약, 수축하다|con-+tract|함께 끌어당기다
+extract|추출하다|ex-+tract|밖으로 끌어내다
+subtract|빼다|sub-+tract|아래로 끌어내다
+distract|산만하게 하다|dis-+tract|따로따로 끌다
+abstract|추상적인|abs-+tract|떼어서 끌어낸
+tractor|트랙터|tract+-or|끄는 기계
+retract|철회하다|re-+tract|뒤로 끌어당기다
+traction|견인력|tract+-ion|끄는 힘
+attractive|매력적인|at-+tract+-ive|끌어당기는
+#fer|나르다, 가져가다|라틴어 ferre (나르다)|🚚|fer = 옮기기! 가로질러(trans) 옮기면 이동·환승(transfer).
+transfer|옮기다, 환승|trans-+fer|가로질러 옮기다
+refer|언급하다, 참조하다|re-+fer|다시 가져가다
+prefer|선호하다|pre-+fer|앞에 가져다 놓다
+offer|제안하다|of-+fer|~쪽으로 가져가다
+suffer|고통받다|suf-+fer|아래서 견디며 나르다
+differ|다르다|dif-+fer|따로따로 나르다
+confer|협의하다|con-+fer|함께 가져가다
+infer|추론하다|in-+fer|안으로 가져가다
+reference|참고|re-+fer+-ence|다시 가져가 보는 것
+conference|회의|con-+fer+-ence|함께 모이는 것
+circumference|원주|circum-+fer+-ence|주위를 돌아 나른 길
+preference|선호|pre-+fer+-ence|앞에 놓는 것
+difference|차이|dif-+fer+-ence|따로 나뉜 것
+#pos/pon|놓다|라틴어 ponere (놓다)|📍|pos = 탁! 놓다. 앞에(pro) 놓으면 제안(propose).
+position|위치|pos+-ition|놓인 곳
+pose|자세를 취하다|pos+-e|놓다
+expose|노출시키다|ex-+pos+-e|밖에 놓다
+impose|부과하다|im-+pos+-e|위에 놓다
+oppose|반대하다|op-+pos+-e|맞서 놓다
+compose|작곡하다, 구성하다|com-+pos+-e|함께 놓다
+purpose|목적|pur-+pos+-e|앞에 놓은 것
+propose|제안하다|pro-+pos+-e|앞에 내놓다
+suppose|가정하다|sup-+pos+-e|아래에 놓고 생각하다
+deposit|예금하다|de-+pos+-it|아래에 두다
+positive|긍정적인|pos+-itive|놓여 확정된
+postpone|연기하다|post-+pon+-e|뒤에 놓다
+opponent|상대|op-+pon+-ent|맞서 놓인 사람
+component|구성 요소|com-+pon+-ent|함께 놓인 것
+composer|작곡가|compos+-er|함께 놓는 사람
+#ten/tain|잡다, 쥐다|라틴어 tenere (잡다)|✊|tain = 꽉 잡기! 안에(con) 잡고 있으면 담다(contain).
+contain|포함하다|con-+tain|함께 잡고 있다
+maintain|유지하다|main=손+tain|손으로 붙들다
+obtain|얻다|ob-+tain|맞서 붙잡다
+retain|보유하다|re-+tain|뒤로 잡아 두다
+sustain|지탱하다|sus-+tain|아래서 붙잡다
+entertain|즐겁게 하다|enter=사이+tain|사이에 붙들어 두다
+detain|구금하다|de-+tain|붙잡아 두다
+attain|달성하다|at-+tain|~에 손이 닿다
+tenant|세입자|ten+-ant|(집을) 잡고 있는 사람
+content|내용물|con-+tent|안에 잡힌 것
+continue|계속하다|con-+tin+-ue|쭉 붙잡고 이어가다
+container|용기|contain+-er|담는 것
+abstain|삼가다|abs-+tain|떨어져 붙잡다
+retention|보유|re-+tent+-ion|붙잡아 두는 것
+#cap/cept/ceive|잡다|라틴어 capere (잡다)|🧤|cap = 낚아채기! 받아(re) 잡으면 receive.
+capture|붙잡다|capt+-ure|붙잡는 행위
+capable|~할 수 있는|cap+-able|잡을 능력이 있는
+capacity|수용력|cap+-acity|잡아 담는 크기
+accept|받아들이다|ac-+cept|~쪽으로 잡아 받다
+except|제외하고|ex-+cept|밖으로 잡아 빼다
+concept|개념|con-+cept|함께 잡은 생각
+receive|받다|re-+ceive|뒤로 잡아채다
+deceive|속이다|de-+ceive|잘못 잡게 하다
+perceive|인지하다|per-+ceive|끝까지 붙잡다
+conceive|상상하다|con-+ceive|함께 품다
+receipt|영수증|re-+ceipt|받은 증거
+reception|환영회|re-+cept+-ion|받아들이는 자리
+intercept|가로채다|inter-+cept|사이에서 잡다
+captain|선장|capt+-ain|머리를 잡은 사람
+captive|포로|capt+-ive|붙잡힌 사람
+#act/ag|행하다, 몰다|라틴어 agere (행하다)|🎬|act = 액션! 다시(re) 행동하면 반응(react).
+active|활동적인|act+-ive|행동하는
+react|반응하다|re-+act|다시 행동하다
+exact|정확한|ex-+act|밖으로 끝까지 몰아낸
+enact|제정하다|en-+act|행하게 만들다
+agent|대리인|ag+-ent|행동하는 사람
+agenda|안건|ag+-enda|해야 할 일
+agile|민첩한|ag+-ile|움직이기 쉬운
+actual|실제의|act+-ual|행동으로 드러난
+activity|활동|act+-ivity|행하는 것
+interact|상호작용하다|inter-+act|사이에서 행동하다
+transact|거래하다|trans-+act|가로질러 일을 처리하다
+#fact/fect/fic|만들다, 하다|라틴어 facere (만들다)|🏭|fact = 공장! 만들어진 일 = fact(사실), 만드는 곳 = factory.
+fact|사실|fact|이루어진 일
+factory|공장|fact+-ory|만드는 곳
+manufacture|제조하다|manu=손+fact+-ure|손으로 만들다
+perfect|완벽한|per-+fect|끝까지 만든
+effect|효과|ef-+fect|밖으로 만들어 낸 것
+affect|영향을 미치다|af-+fect|~쪽으로 만들어 내다
+defect|결함|de-+fect|만들다 실패한 것
+infect|감염시키다|in-+fect|안으로 만들어 넣다
+difficult|어려운|dif-+fic+-ult|만들기 쉽지 않은
+efficient|효율적인|ef-+fic+-ient|잘 만들어 내는
+sufficient|충분한|suf-+fic+-ient|아래서 채워 만든
+artificial|인공의|arti=기술+fic+-ial|기술로 만든
+official|공식적인|offic=일+-ial|직무를 행하는
+fiction|소설|fic+-tion|만들어 낸 이야기
+factor|요인|fact+-or|결과를 만드는 것
+#sta/stit|서다|라틴어 stare (서다)|🧍|sta = 서 있는 사람! 서 있는 곳 = station.
+station|역|sta+-tion|서 있는 곳
+stable|안정된|sta+-ble|잘 서 있는
+status|지위|sta+-tus|서 있는 상태
+statue|조각상|statu+-e|서 있는 것
+constant|변함없는|con-+sta+-nt|함께 서 있는
+instant|즉각적인|in-+sta+-nt|바로 위에 서 있는
+distance|거리|di-+sta+-nce|떨어져 서 있음
+obstacle|장애물|ob-+sta+-cle|맞서 서 있는 것
+establish|설립하다|e-+stabl=서다+-ish|단단히 세우다
+circumstance|상황|circum-+sta+-nce|주위에 서 있는 것
+substance|물질|sub-+sta+-nce|아래에 서 있는 것
+institute|기관|in-+stit+-ute|안에 세운 것
+constitution|헌법|con-+stit+-ution|함께 세운 것
+state|상태, 국가|sta+-te|서 있는 모습
+#mov/mot|움직이다|라틴어 movere (움직이다)|🚶|mot = 모션! 감정(emotion)은 마음이 밖으로(e) 움직이는 것.
+move|움직이다|mov+-e|움직이다
+remove|제거하다|re-+mov+-e|뒤로 움직여 치우다
+motion|움직임|mot+-ion|움직이는 것
+motor|모터|mot+-or|움직이게 하는 것
+emotion|감정|e-+mot+-ion|밖으로 움직이는 마음
+promote|승진시키다|pro-+mot+-e|앞으로 움직이다
+motive|동기|mot+-ive|움직이게 하는 것
+remote|멀리 떨어진|re-+mot+-e|뒤로 멀리 움직인
+commotion|소동|com-+mot+-ion|함께 움직이는 소란
+demote|강등시키다|de-+mot+-e|아래로 움직이다
+motivate|동기를 부여하다|mot+-ivate|움직이게 하다
+#clud/clus|닫다|라틴어 claudere (닫다)|🔒|clud = 문 닫기! 안에(in) 닫아 넣으면 포함(include).
+include|포함하다|in-+clud+-e|안에 닫아 넣다
+exclude|제외하다|ex-+clud+-e|밖으로 닫아 내보내다
+conclude|결론짓다|con-+clud+-e|함께 닫다
+seclude|격리하다|se-+clud+-e|따로 닫아 두다
+conclusion|결론|con-+clus+-ion|함께 닫은 것
+exclusive|독점적인|ex-+clus+-ive|밖을 닫아 막은
+inclusive|포괄적인|in-+clus+-ive|안에 다 넣은
+disclose|공개하다|dis-+clos+-e|닫힌 것을 열다
+enclose|동봉하다|en-+clos+-e|안에 닫아 넣다
+closet|벽장|clos+-et|작게 닫힌 곳
+preclude|미리 막다|pre-+clud+-e|미리 닫아 놓다

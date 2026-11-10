@@ -1,0 +1,154 @@
+@5
+#ambul|걷다|라틴어 ambulare (걷다)|🚑|ambul = 걸어 다님! 걸어서 환자를 옮기던 것이 ambulance.
+ambulance|구급차|ambul+-ance|걸어 다니는 병원
+ambulatory|걸을 수 있는|ambul+-atory|걸어 다닐 수 있는
+amble|느긋이 걷다|ambl=ambul+-e|천천히 걷다
+preamble|서문|pre-+amble|앞서 걷는 말
+perambulator|유모차|per-+ambul+-ator|두루 걸어 다니는 것
+#ambi/amphi|양쪽, 주위|라틴어 ambi- / 그리스어 amphi-|↔️|ambi = 양쪽! 두 길 사이에서 망설이면 ambiguous.
+ambiguous|모호한|ambi-+ig=ag+-uous|양쪽으로 몰고 가는
+ambidextrous|양손잡이의|ambi-+dextr=오른손+-ous|양쪽 다 오른손 같은
+ambition|야망|ambi-+it+-ion|사방을 돌아다니며 구함
+ambivalent|양가감정의|ambi-+val+-ent|양쪽 가치가 모두 있는
+amphibian|양서류|amphi-+bi=삶+-an|양쪽에서 사는 동물
+amphitheater|원형극장|amphi-+theater=극장|둘레 극장
+ambient|주변의|ambi-+ent|둘러싼
+#arch|우두머리, 으뜸|그리스어 arkhos (지배자)|👑|arch = 우두머리! 으뜸이 되는 것.
+monarch|군주|mon=하나+arch|혼자 다스리는 사람
+anarchy|무정부 상태|an-+arch+-y|지배자가 없음
+hierarchy|계층 구조|hier=신성+arch+-y|성직자 지배 체계
+architect|건축가|arch+i+tect=짓다|으뜸 건축가
+archaic|고풍의|arch+-aic|처음의
+archive|기록 보관소|arch+-ive|통치 기록
+oligarchy|과두 정치|olig=소수+arch+-y|소수가 다스림
+matriarch|여가장|matri=어머니+arch|어머니 우두머리
+archetype|원형|arche=arch+type=틀|으뜸 틀
+#auth|작가, 권위|라틴어 auctor (창시자)|✒️|auth = 창시자! 만들어낸 사람의 권한.
+author|저자|auth+-or|만든 사람
+authority|권위|auth+-ority|창시자의 힘
+authentic|진짜의|auth+-entic|원작자가 만든
+authorize|승인하다|auth+-orize|권한을 주다
+autonomy|자율성|auto-+nom=법+-y|스스로 정한 법
+automatic|자동의|auto-+mat=생각하다+-ic|스스로 움직이는
+autobiography|자서전|auto-+bio-+graph+-y|스스로 쓴 생애
+authoritarian|권위주의의|authority+-arian|권력을 앞세우는
+#bat/belli|싸우다|라틴어 battuere / bellum|⚔️|bat = 배틀! 싸우는 것.
+rebel|반항하다|re-+bel=bellum|다시 전쟁을 일으키다
+rebellion|반란|re-+bell+-ion|다시 싸움
+belligerent|호전적인|belli+ger=행하다+-ent|싸움을 행하는
+combat|전투|com-+bat|함께 치고받다
+battle|전투|bat+-tle|싸움
+debate|토론하다|de-+bate=bat|말로 싸우다
+battery|배터리|bat+-tery|두드려 힘을 내는 것
+bellicose|호전적인|bell+-icose|싸움 좋아하는
+#clin|기울다|그리스어 klinein (기울이다)|📐|clin = 기울기! 몸이 기울면 침대(clinic).
+incline|기울이다|in-+clin+-e|안으로 기울다
+decline|감소하다|de-+clin+-e|아래로 기울다
+recline|기대어 눕다|re-+clin+-e|뒤로 기울다
+climate|기후|clim=clin+-ate|해의 기울기
+climax|절정|clim+-ax|사다리 꼭대기
+clinic|진료소|clin+-ic|침대 곁 진료
+inclination|경향|in-+clin+-ation|기울어진 마음
+declination|기울어짐|de-+clin+-ation|아래로 기운 정도
+#dem|사람들, 민중|그리스어 demos (민중)|🗳️|dem = 민중! 민중이 다스리면 democracy.
+democracy|민주주의|dem+o+cracy|민중의 통치
+democrat|민주주의자|dem+o+crat|민중의 지배자
+demography|인구통계학|dem+o+graphy|민중 기록
+epidemic|유행병|epi-+dem+-ic|민중 위에 퍼진
+endemic|풍토병의|en-+dem+-ic|민중 안에 있는
+pandemic|세계적 유행병|pan-+dem+-ic|모든 민중에게
+demagogue|선동가|dem+a+gog=이끌다+-ue|민중을 홀리는 사람
+demographic|인구통계의|dem+o+graph+-ic|인구 기록의
+#cracy/crat|통치, 힘|그리스어 kratos (힘)|⚡|-cracy = 통치! 누가 다스리는가.
+aristocracy|귀족 정치|aristo=최고+cracy|최고 계층의 통치
+bureaucracy|관료제|bureau=책상+cracy|책상(사무실)의 통치
+autocrat|독재자|auto-+crat|혼자 지배하는 사람
+technocrat|기술 관료|techno=기술+crat|기술 전문가 통치자
+theocracy|신정 정치|theo=신+cracy|신의 통치
+plutocracy|금권 정치|pluto=부+cracy|부자의 통치
+meritocracy|능력주의|merit=공적+cracy|능력자의 통치
+#derm|피부|그리스어 derma (피부)|🧴|derm = 피부! 피부 관련.
+dermatology|피부과학|dermat+-ology|피부 학문
+epidermis|표피|epi-+derm+-is|피부 위쪽
+hypodermic|피하의|hypo-+derm+-ic|피부 아래의
+pachyderm|후피동물|pachy=두꺼운+derm|두꺼운 피부
+taxidermy|박제술|taxi=배열+derm+-y|피부를 배열함
+#doc/doct|가르치다|라틴어 docere (가르치다)|🎓|doc = 가르침! 가르치는 내용을 적은 것 = document.
+doctrine|교리|doct+-rine|가르침
+document|문서|doc+-ument|가르쳐 주는 것
+docile|유순한|doc+-ile|가르치기 쉬운
+indoctrinate|세뇌하다|in-+doctrin+-ate|가르쳐 주입하다
+doctorate|박사 학위|doctor+-ate|가르칠 자격
+docent|도슨트|doc+-ent|설명해 주는 사람
+#ortho|바른, 곧은|그리스어 orthos (바른)|📏|ortho = 똑바로! 바른 것.
+orthodox|정통의|ortho+dox=의견|바른 의견
+orthodontist|치열 교정 전문의|ortho+dont=이+-ist|이를 바르게 하는 사람
+orthopedic|정형외과의|ortho+ped=아이+-ic|아이를 곧게 키우는
+orthography|철자법|ortho+graph+-y|바르게 쓰기
+paradox|역설|para-+dox|의견과 어긋남
+heterodox|이단의|hetero=다른+dox|다른 의견
+dogma|교리, 독단|dog=dox+-ma|의견
+#homo/hetero|같은 / 다른|그리스어 homos / heteros|🆚|homo = 같음, hetero = 다름. 짝꿍 접사!
+homogeneous|동질의|homo+gen+-eous|같은 종류의
+heterogeneous|이질적인|hetero+gen+-eous|다른 종류의
+homonym|동음이의어|homo+nym|같은 이름
+homophone|동음이의어|homo+phone|같은 소리
+homograph|동철이음어|homo+graph|같은 글자
+homeostasis|항상성|homeo=비슷한+stasis=서 있음|같은 상태 유지
+#hypo/hyper|아래 / 지나친|그리스어 hypo / hyper|⬇️⬆️|hypo = 아래, hyper = 위로 지나친.
+hypothesis|가설|hypo-+thesis=놓음|아래 놓은 기초 생각
+hypothetical|가상의|hypo-+thet+-ical|가설의
+hypocrite|위선자|hypo-+crit=판단하다+-e|아래에서 연기하는 사람
+hypoglycemia|저혈당|hypo-+glyc=당+emia=피|아래 혈당
+hypertension|고혈압|hyper-+tension=압력|지나친 압력
+hyperbole|과장법|hyper-+bole=던지기|지나치게 던짐
+hyperactive|과잉행동의|hyper-+active|지나치게 활동적인
+hypersensitive|과민한|hyper-+sensitive|지나치게 민감한
+#ther|치료|그리스어 therapeia (치료)|💊|ther = 치료! 돌보고 고치는 것.
+therapy|치료|ther+-apy|치료
+therapist|치료사|ther+-apist|치료하는 사람
+therapeutic|치료의|ther+-apeutic|치료하는
+geriatrics|노인의학|ger=늙은+iatr=치료+-ics|노인 치료
+pediatrician|소아과 의사|ped=아이+iatr+-ician|아이를 치료하는 사람
+chemotherapy|화학요법|chemo=화학+therapy|약물 치료
+physiotherapy|물리치료|physio=몸+therapy|몸 치료
+#sen/juven|늙은 / 젊은|라틴어 senex / juvenis|👴👦|sen = 늙은, juven = 젊은. 짝꿍!
+senior|연장자|sen+-ior|더 나이 든
+senile|노쇠한|sen+-ile|늙은
+senate|원로원|sen+-ate|원로들의 모임
+senator|상원의원|sen+-ator|원로
+seniority|연공서열|sen+-iority|나이 서열
+senescent|늙어가는|sen+-escent|늙어가는
+juvenile|청소년의|juven+-ile|젊은
+rejuvenate|젊게 하다|re-+juven+-ate|다시 젊게 하다
+geriatric|노인의|ger+-iatric|노인 치료의
+#kine/cine|움직임|그리스어 kinein (움직이다)|🎞️|kine = 움직임! 움직이는 그림이 cinema.
+kinetic|운동의|kinet+-ic|움직이는
+cinema|영화관|cine=kine+-ma|움직임
+cinematic|영화 같은|cine+-matic|영화의
+kinesthetic|운동 감각의|kin+-esthetic=감각|움직임 감각
+telekinesis|염력|tele-+kine+-sis|멀리서 움직임
+#lab/laps|일하다 / 미끄러지다|라틴어 labor / labi|🧪|lab = 노동! laps = 미끄러짐.
+laboratory|실험실|lab+-oratory|일하는 곳
+collaborate|협업하다|col-+labor+-ate|함께 일하다
+elaborate|정교한|e-+labor+-ate|애써 만든
+labor|노동|labor|일
+laborious|힘든|labor+-ious|애쓰는
+collapse|붕괴하다|col-+laps+-e|함께 미끄러지다
+elapse|경과하다|e-+laps+-e|미끄러져 지나가다
+lapse|실수, 경과|laps+-e|미끄러짐
+relapse|재발|re-+laps+-e|다시 미끄러져 들어가다
+#morph|모양|그리스어 morphe (모양)|🦋|morph = 변신! metamorphosis는 변태.
+morph|변하다|morph|모양 바꾸다
+morphology|형태학|morph+-ology|모양 학문
+metamorphosis|변태|meta-+morph+-osis|모양이 바뀜
+amorphous|무정형의|a-+morph+-ous|모양 없는
+anthropomorphic|의인화된|anthropo=사람+morph+-ic|사람 모양의
+polymorph|다형체|poly-+morph|여러 모양
+#neo/paleo|새로운 / 오래된|그리스어 neos / palaios|🆕|neo = 신, paleo = 고.
+neon|네온|neo+-n|새로운 기체
+neologism|신조어|neo+log+-ism|새 말
+neophyte|초보자|neo+phyte=식물|새로 심은 싹
+neoclassical|신고전주의의|neo+classical=고전의|새 고전풍
+paleontology|고생물학|paleo+onto=존재+-logy|옛 생물 학문
+paleolithic|구석기 시대의|paleo+lith=돌+-ic|옛 돌 시대

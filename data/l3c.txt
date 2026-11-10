@@ -1,0 +1,192 @@
+#ped/pod|발|라틴어 pes / 그리스어 pous (발)|🦶|ped = 발! 발로 밟는 pedal, 걷는 사람 pedestrian.
+pedal|페달|ped+-al|발로 밟는 것
+pedestrian|보행자|ped+-estrian|걷는 사람
+pedicure|발 관리|ped+i+cure=돌봄|발 손질
+centipede|지네|centi=백+ped+-e|발이 백 개
+podium|연단|pod+-ium|발 딛는 단
+tripod|삼각대|tri-+pod|발 세 개
+octopus|문어|octo=여덟+pus|발 여덟 개
+impede|방해하다|im-+ped+-e|발을 묶다
+expedite|촉진하다|ex-+ped+-ite|발이 자유로워지다
+expedition|탐험|ex-+ped+-ition|발 내딛는 여행
+#corp|몸|라틴어 corpus (몸)|🏢|corp = 몸! 하나의 몸처럼 뭉친 회사 = corporation.
+corps|군단|corp+-s|몸처럼 뭉친 부대
+corporation|기업|corp+-oration|한 몸이 된 단체
+corpse|시체|corp+-se|몸
+corporal|신체의|corp+-oral|몸의
+incorporate|통합하다|in-+corp+-orate|한 몸 안에 넣다
+corpus|말뭉치|corp+-us|몸(자료 덩어리)
+corporate|기업의|corp+-orate|한 몸의
+#mal/bene|나쁜 / 좋은|라틴어 malus / bene|😈😇|mal = 나쁨, bene = 좋음. 둘이 한 쌍!
+malice|악의|mal+-ice|나쁜 마음
+malfunction|오작동|mal-+function=기능|나쁘게 작동
+malnutrition|영양실조|mal-+nutrition=영양|나쁜 영양
+malaria|말라리아|mal+aria=공기|나쁜 공기
+malady|병|mal+-ady|나쁜 상태
+benefit|이익|bene+fit=만들다|좋게 만든 것
+benefactor|후원자|bene+fact+-or|좋은 일을 하는 사람
+benevolent|자비로운|bene+vol=바라다+-ent|좋은 것을 바라는
+benign|양성의, 상냥한|ben+-ign|좋게 태어난
+bonus|보너스|bon+-us|좋은 것
+bountiful|풍부한|bount=bon+-iful|좋은 것이 가득한
+#magn/maj/max|큰|라틴어 magnus / major / maximus|🐘|magn = 매그넘! 큰 것.
+magnify|확대하다|magn+-ify|크게 만들다
+magnificent|웅장한|magn+-ificent|큰 일을 하는
+magnitude|규모|magn+-itude|큰 정도
+major|주요한, 전공|maj+-or|더 큰
+majority|다수|maj+-ority|더 큰 쪽
+maximum|최대|max+-imum|가장 큰
+master|주인, 석사|mast=magn+-er|큰 사람
+mayor|시장|may=maj+-or|더 큰 사람
+majesty|위엄|maj+-esty|큰 위엄
+magnate|거물|magn+-ate|큰 사람
+#min|작은|라틴어 minor / minimus|🐜|min = 미니! 작은 것.
+minor|작은, 부전공|min+-or|더 작은
+minus|마이너스|min+-us|더 작은
+minute|분, 아주 작은|min+-ute|작은 시간
+minimum|최소|min+-imum|가장 작은
+minister|장관|min+-ister|작은 자(종)
+diminish|줄이다|di=de-+min+-ish|작게 하다
+minority|소수|min+-ority|더 적은 쪽
+miniature|축소 모형|min+-iature|작게 만든 것
+minimal|최소한의|min+-imal|아주 작은
+#alter/ali|다른|라틴어 alter / alius (다른)|🔀|alter = 바꿔요! 다른 것.
+alter|바꾸다|alter|다르게 하다
+alternate|번갈아 하는|alter+-nate|다른 것으로 교대하는
+alternative|대안|alter+-native|다른 선택
+alias|별명|ali+-as|다른 이름
+alien|외계인, 낯선|ali+-en|다른 곳의 존재
+alibi|알리바이|ali+bi=곳|다른 장소에 있었음
+alienate|소외시키다|ali+-enate|다른 사람 취급하다
+altruism|이타주의|altru=other+-ism|타인을 위함
+#equ|같은, 평평한|라틴어 aequus (평평한, 같은)|🟰|equ = 이퀄(=)! 같음.
+equal|같은|equ+-al|같은
+equate|동일시하다|equ+-ate|같게 만들다
+equation|방정식|equ+-ation|같게 놓은 식
+equator|적도|equ+-ator|지구를 같게 나누는 선
+equivalent|동등한|equ+i+val=가치+-ent|가치가 같은
+equilibrium|균형|equ+i+libr=저울+-ium|저울이 같게
+equity|공평|equ+-ity|같음
+adequate|충분한|ad-+equ+-ate|~에 같게 맞는
+equinox|춘분·추분|equ+i+nox=밤|밤낮이 같음
+inequality|불평등|in-+equ+-ality|같지 않음
+#simil/sembl|닮은, 같은|라틴어 similis (닮은)|👯|simil = 쌍둥이! 닮은 것.
+similar|비슷한|simil+-ar|닮은
+simulate|모의실험하다|simul+-ate|닮게 하다
+resemble|닮다|re-+sembl+-e|다시 닮다
+assemble|조립하다|as-+sembl+-e|같은 곳에 모으다
+simile|직유|simil+-e|닮은 표현
+simultaneous|동시의|simul+-taneous|함께 같은 때에
+facsimile|복사본|fac=만들다+simil+-e|닮게 만든 것
+assimilate|동화시키다|as-+simil+-ate|닮게 만들다
+dissimilar|다른|dis-+simil+-ar|닮지 않은
+ensemble|앙상블|en-+sembl+-e|함께 모임
+#liber|자유|라틴어 liber (자유로운)|🗽|liber = 자유의 여신! 자유와 해방.
+liberty|자유|liber+-ty|자유로움
+liberal|자유로운, 진보적인|liber+-al|자유를 중시하는
+liberate|해방시키다|liber+-ate|자유롭게 하다
+liberation|해방|liber+-ation|자유롭게 함
+libertine|방탕한 사람|liber+-tine|자유분방한 사람
+deliver|배달하다|de-+liver|풀어서 자유롭게 보내다
+delivery|배달|de-+liver+-y|풀어 보내는 일
+#popul/publ|사람들, 대중|라틴어 populus (사람들)|👥|publ = 퍼블릭! 모두 속하는 것.
+population|인구|popul+-ation|사람 수
+popular|인기 있는|popul+-ar|사람들의
+populous|인구가 많은|popul+-ous|사람이 많은
+public|공공의|publ+-ic|사람들의
+publish|출판하다|publ+-ish|사람들에게 알리다
+publication|출판물|publ+-ication|세상에 내놓은 것
+republic|공화국|re=res+publ+-ic|공공의 것
+publicity|홍보|publ+-icity|대중에게 알림
+depopulate|인구를 줄이다|de-+popul+-ate|사람을 없애다
+#civ/cit|시민, 도시|라틴어 civis (시민)|🏙️|civ = 시민! 도시에 사는 사람.
+civil|시민의|civ+-il|시민의
+civic|시민의|civ+-ic|시민의
+civilian|민간인|civ+-ilian|시민 신분
+civilization|문명|civ+-ilization|시민 사회
+citizen|시민|cit+-izen|도시 사람
+city|도시|cit+-y|시민들의 터전
+citizenship|시민권|citizen+-ship|시민 신분
+civility|예의|civ+-ility|시민다움
+#urb/polis|도시|라틴어 urbs / 그리스어 polis|🌆|urb = 도시! 도시 안팎의 말.
+urban|도시의|urb+-an|도시의
+suburb|교외|sub-+urb|도시 아래
+suburban|교외의|sub-+urb+-an|교외의
+metropolis|대도시|metro=어머니+polis|어머니 도시
+metropolitan|대도시의|metro+polit+-an|대도시의
+police|경찰|polis=도시+-e|도시를 지키는
+politics|정치|polit+-ics|도시의 일
+policy|정책|poli=polis+-cy|도시 운영 방침
+political|정치적인|polit+-ical|정치의
+politician|정치인|polit+-ician|정치하는 사람
+#voc/vok|부르다, 목소리|라틴어 vocare (부르다)|📢|voc = 보이스! 부르는 소리.
+voice|목소리|voc+-e|소리
+vocal|목소리의|voc+-al|소리의
+vocabulary|어휘|voc+-abulary|부르는 말
+vocation|천직|voc+-ation|부름
+advocate|옹호하다|ad-+voc+-ate|~를 향해 부르다
+invoke|호출하다|in-+vok+-e|안에서 부르다
+provoke|도발하다|pro-+vok+-e|앞으로 불러내다
+revoke|취소하다|re-+vok+-e|되불러 거두다
+evoke|불러일으키다|e-+vok+-e|밖으로 불러내다
+vowel|모음|vow=voc+-el|목소리로 내는 소리
+#claim/clam|외치다|라틴어 clamare (외치다)|📣|claim = 소리쳐 주장! 밖으로(ex) 외치면 exclaim.
+claim|주장하다|claim|외치다
+exclaim|외치다|ex-+claim|밖으로 외치다
+proclaim|선언하다|pro-+claim|앞에서 외치다
+acclaim|칭찬하다|ac-+claim|~를 향해 환호하다
+reclaim|되찾다|re-+claim|다시 요구하다
+disclaim|부인하다|dis-+claim|소리쳐 거부하다
+declare|선언하다|de-+clar+-e|분명히 밝히다
+clarity|명확함|clar+-ity|맑고 분명함
+#nounc/nunc|알리다|라틴어 nuntiare (알리다)|📯|nounc = 확성기! 알리는 소리.
+announce|발표하다|an-+nounc+-e|~에게 알리다
+pronounce|발음하다|pro-+nounc+-e|앞에서 소리 내어 알리다
+denounce|비난하다|de-+nounc+-e|아래로 알리다
+renounce|포기하다|re-+nounc+-e|되돌려 선언하다
+announcer|아나운서|an-+nounc+-er|알리는 사람
+pronunciation|발음|pro-+nunc+-iation|소리 내는 방식
+#liter|글자|라틴어 littera (글자)|🔤|liter = 글자! 글을 아는 사람.
+literate|글을 아는|liter+-ate|글자를 아는
+illiterate|문맹의|il-+liter+-ate|글자를 모르는
+literal|글자 그대로의|liter+-al|글자의
+literature|문학|liter+-ature|글자로 된 것
+literacy|읽고 쓰는 능력|liter+-acy|글자 능력
+obliterate|지워 없애다|ob-+liter+-ate|글자를 지우다
+#log/logy|말, 학문|그리스어 logos (말, 이성)|💬|log = 말! 말(log)을 모으면 학문(-logy).
+logic|논리|log+-ic|이성적인 말
+dialogue|대화|dia-+log+-ue|사이에서 오가는 말
+monologue|독백|mono-+log+-ue|혼자 하는 말
+apology|사과|apo=벗어나+log+-y|말로 변명하기
+catalog|카탈로그|cata-+log|아래로 나열한 말
+prologue|서막|pro-+log+-ue|앞의 말
+epilogue|맺음말|epi-+log+-ue|뒤에 덧붙인 말
+logo|로고|log+-o|말(이름)의 표시
+ecology|생태학|eco=집+-logy|집(환경) 학문
+zoology|동물학|zoo=동물+-logy|동물 학문
+technology|기술|techno=기술+-logy|기술 학문
+mythology|신화학|myth=신화+-logy|신화 학문
+analogy|비유|ana-+log+-y|말을 겹쳐 놓기
+#nom/nym|이름|라틴어 nomen / 그리스어 onyma|🏷️|nym = 이름표! 이름과 관련된 말.
+name|이름|nom=name|이름
+noun|명사|noun=nom|이름을 나타내는 말
+nominate|지명하다|nomin+-ate|이름을 부르다
+nominal|명목상의|nomin+-al|이름뿐인
+nomination|지명|nomin+-ation|이름을 올림
+anonymous|익명의|an-+onym+-ous|이름이 없는
+synonym|동의어|syn-+onym|같은 이름
+antonym|반의어|ant-+onym|반대 이름
+acronym|두문자어|acro=끝+onym|첫 글자로 만든 이름
+pseudonym|필명|pseudo=가짜+onym|가짜 이름
+#gno/not|알다|라틴어 noscere / 그리스어 gignoskein|💡|not = 노트! 알고 기록하는 것.
+ignore|무시하다|i-+gno+-re|알지 못한 척하다
+ignorant|무지한|i-+gno+-rant|모르는
+notice|알아채다|not+-ice|알게 되다
+notion|개념|not+-ion|아는 것
+notify|통지하다|not+-ify|알게 하다
+notorious|악명 높은|not+-orious|널리 알려진
+noble|고귀한|no=not+-ble|알려진 이
+cognitive|인지의|co-+gnit+-ive|함께 아는
+incognito|신분을 숨긴|in-+cogn+-ito|알려지지 않은
+diagnose|진단하다|dia-+gnos+-e|가로질러 알아내다
+prognosis|예후|pro-+gnos+-is|앞서 아는 것

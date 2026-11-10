@@ -1,0 +1,129 @@
+@2
+#spect/spec|보다|라틴어 specere (보다)|👁️|spect = 눈! 안(in)을 보면 검사(inspect), 뒤(re)를 돌아보면 존중(respect).
+inspect|검사하다|in-+spect|안을 보다
+respect|존경하다|re-+spect|뒤돌아 다시 보다
+expect|기대하다|ex-+spect|밖을 내다보다
+prospect|전망, 가능성|pro-+spect|앞을 보다
+suspect|의심하다|sub-+spect|아래에서 몰래 보다
+aspect|측면|a-+spect|~쪽을 보다
+spectator|관중|spect+-ator|보는 사람
+spectacle|구경거리|spect+-acle|볼 만한 것
+perspective|관점|per-+spect+-ive|꿰뚫어 보다
+specimen|표본|spec+-imen|살펴보는 샘플
+spectrum|스펙트럼|spect+-rum|눈에 보이는 범위
+#port|나르다|라틴어 portare (나르다)|📦|port = 짐 나르기! 밖으로(ex) 나르면 수출(export), 안으로(im) 나르면 수입(import).
+transport|수송하다|trans-+port|가로질러 나르다
+import|수입하다|im-+port|안으로 나르다
+export|수출하다|ex-+port|밖으로 나르다
+support|지지하다|sup-+port|아래서 떠받쳐 나르다
+report|보고하다|re-+port|다시 가져오다
+portable|휴대용의|port+-able|나를 수 있는
+porter|짐꾼|port+-er|나르는 사람
+deport|추방하다|de-+port|멀리 데려가다
+important|중요한|im-+port+-ant|안으로 가져올 가치가 있는
+reporter|기자|re-+port+-er|소식을 가져오는 사람
+portfolio|포트폴리오|port+folio=종이|종이를 나르는 가방
+#dict|말하다|라틴어 dicere (말하다)|🗣️|dict = 입! 미리(pre) 말하면 예측(predict).
+predict|예측하다|pre-+dict|미리 말하다
+dictate|받아쓰게 하다|dict+-ate|말해서 쓰게 하다
+dictionary|사전|dict+-ionary|말을 모아 놓은 책
+contradict|모순되다, 반박하다|contra-+dict|반대로 말하다
+verdict|평결|ver=진실+dict|진실을 말하다
+addict|중독자|ad-+dict|말로 헌신하다
+dictator|독재자|dict+-ator|명령하는 사람
+diction|발음, 말씨|dict+-ion|말하는 방식
+indicate|가리키다|in-+dic=말하다+-ate|말로 짚어 주다
+#scrib/script|쓰다|라틴어 scribere (쓰다)|✍️|script = 펜! 아래에(sub) 이름을 쓰면 구독(subscribe).
+describe|묘사하다|de-+scrib+-e|아래로 쭉 써 내려가다
+subscribe|구독하다|sub-+scrib+-e|아래에 서명하다
+prescribe|처방하다|pre-+scrib+-e|미리 써 주다
+inscribe|새기다|in-+scrib+-e|안에 쓰다
+script|대본|script|쓴 글
+manuscript|원고|manu=손+script|손으로 쓴 글
+scripture|성경|script+-ure|쓰인 글
+transcript|사본, 성적표|trans-+script|옮겨 쓴 것
+subscription|구독|sub-+script+-ion|서명하는 행위
+description|묘사|de-+script+-ion|써 내려간 것
+prescription|처방전|pre-+script+-ion|미리 쓴 지시
+postscript|추신|post-+script|뒤에 덧쓴 글
+scribble|낙서하다|scrib+-ble|마구 쓰다
+#duc/duct|이끌다|라틴어 ducere (이끌다)|🧲|duct = 끌고 가기! 앞으로(pro) 이끌어 내면 생산(produce).
+produce|생산하다|pro-+duc+-e|앞으로 이끌어 내다
+reduce|줄이다|re-+duc+-e|뒤로 끌어내리다
+introduce|소개하다|intro-+duc+-e|안으로 이끌다
+conduct|수행하다, 지휘하다|con-+duct|함께 이끌다
+educate|교육하다|e-+duc+-ate|밖으로 끌어내다
+deduce|추론하다|de-+duc+-e|아래로 끌어내다
+induce|유도하다|in-+duc+-e|안으로 이끌다
+product|제품|pro-+duct|생산된 것
+abduct|납치하다|ab-+duct|멀리 끌고 가다
+aqueduct|수로|aque=물+duct|물을 이끄는 관
+conductor|지휘자|con-+duct+-or|함께 이끄는 사람
+seduce|유혹하다|se-+duc+-e|옆길로 이끌다
+#ject|던지다|라틴어 jacere (던지다)|🎯|ject = 던지기! 안으로(in) 던지면 주사(inject), 앞으로(pro) 던지면 계획(project).
+inject|주사하다|in-+ject|안으로 던지다
+reject|거절하다|re-+ject|뒤로 던지다
+project|계획, 투영하다|pro-+ject|앞으로 던지다
+object|물체, 반대하다|ob-+ject|맞서 던져진 것
+subject|주제, 과목|sub-+ject|아래에 던져 둔 것
+eject|쫓아내다|e-+ject|밖으로 던지다
+interject|끼어들다|inter-+ject|사이에 던지다
+projector|영사기|pro-+ject+-or|앞으로 던지는 기계
+trajectory|궤도|tra-+ject+-ory|가로질러 던진 길
+adjective|형용사|ad-+ject+-ive|명사에 던져 붙인 말
+#mit/miss|보내다|라틴어 mittere (보내다)|📨|mit = 전송 버튼! 아래로(sub) 보내면 제출(submit).
+submit|제출하다|sub-+mit|아래로 보내다
+permit|허락하다|per-+mit|통과하도록 보내다
+admit|인정하다|ad-+mit|안으로 들여보내다
+commit|저지르다, 맡기다|com-+mit|함께 보내 맡기다
+emit|내뿜다|e-+mit|밖으로 보내다
+omit|생략하다|o-+mit|보내지 않고 두다
+transmit|전송하다|trans-+mit|가로질러 보내다
+mission|임무|miss+-ion|보내진 일
+missile|미사일|miss+-ile|던져 보내는 것
+dismiss|해고하다, 해산시키다|dis-+miss|떨어뜨려 보내다
+promise|약속|pro-+mis+-e|앞으로 보내 놓은 말
+message|메시지|mess=보내다+-age|보낸 것
+committee|위원회|commit+-ee|맡겨진 사람들
+#vis/vid|보다|라틴어 videre (보다)|📺|vis = 보이는 것! 멀리(tele) 보는 것이 텔레비전.
+vision|시력, 비전|vis+-ion|보는 능력
+visible|보이는|vis+-ible|볼 수 있는
+visit|방문하다|vis+-it|보러 가다
+visual|시각의|vis+-ual|보는 것의
+video|영상|vid+-eo|나는 본다
+evidence|증거|e-+vid+-ence|밖으로 보이는 것
+provide|제공하다|pro-+vid+-e|앞서 보고 마련하다
+revise|수정하다|re-+vis+-e|다시 보다
+supervise|감독하다|super-+vis+-e|위에서 보다
+television|텔레비전|tele-+vis+-ion|멀리 보는 것
+advise|조언하다|ad-+vis+-e|~쪽을 봐 주다
+division|나눔, 부서|di-+vis+-ion|따로 나눠 보다
+#aud|듣다|라틴어 audire (듣다)|👂|aud = 귀! 듣는 사람들 = audience.
+audio|음성의|aud+-io|듣는 것
+audience|청중|aud+-ience|듣는 사람들
+audible|들리는|aud+-ible|들을 수 있는
+audition|오디션|aud+-ition|들어 보는 심사
+auditorium|강당|aud+-itorium|듣는 장소
+audit|회계 감사|aud+-it|(장부를) 듣고 확인하다
+#cred|믿다|라틴어 credere (믿다)|🤞|cred = 믿음! 신용카드 = credit card, 믿기 어려운 = incredible.
+credit|신용, 학점|cred+-it|믿음
+incredible|믿기 어려운|in-+cred+-ible|믿을 수 없는
+credible|믿을 만한|cred+-ible|믿을 수 있는
+credential|자격증|cred+-ential|믿음의 증표
+creed|신조|cred=믿다|믿는 것
+credulous|잘 속는|cred+-ulous|쉽게 믿는
+accredit|인가하다|ac-+cred+-it|~에 믿음을 주다
+discredit|신용을 떨어뜨리다|dis-+cred+-it|믿음을 없애다
+#vert/vers|돌다, 돌리다|라틴어 vertere (돌다)|🌀|vert = 빙글빙글! 함께(con) 돌려 바꾸면 변환(convert).
+convert|전환하다|con-+vert|함께 돌려 바꾸다
+reverse|뒤집다|re-+vers+-e|뒤로 돌리다
+invert|뒤집다|in-+vert|안쪽으로 돌리다
+divert|방향을 돌리다|di-+vert|따로 돌리다
+version|버전|vers+-ion|돌려 만든 형태
+adverse|불리한|ad-+vers+-e|맞서 돌아선
+advertise|광고하다|ad-+vert+-ise|~쪽으로 관심을 돌리다
+controversy|논란|contro-+vers+-y|맞서 돌아서는 것
+introvert|내향적인 사람|intro-+vert|안으로 돌아선 사람
+extrovert|외향적인 사람|extro-+vert|밖으로 돌아선 사람
+diverse|다양한|di-+vers+-e|따로따로 돌아선
+versatile|다재다능한|vers+-atile|잘 돌려 쓸 수 있는
